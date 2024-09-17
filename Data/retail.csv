@@ -1,0 +1,1001 @@
+,Store ID,Product ID,Date,Units Sold,Sales Revenue (USD),Discount Percentage,Marketing Spend (USD),Store Location,Product Category,Day of the Week,Holiday Effect
+20339,Spearsland,93691949,2023-08-26,4,2076.36,0,112,Turkey,Clothing,Saturday,False
+21879,Spearsland,56655933,2023-11-12,3,167.97,0,121,Malaysia,Furniture,Sunday,False
+3900,Spearsland,34892534,2022-09-03,10,1644.3,0,9,Togo,Furniture,Saturday,False
+27620,Spearsland,22571670,2023-07-28,10,1067.0,0,98,Mozambique,Electronics,Friday,False
+8282,Spearsland,30776388,2022-08-30,6,5821.26,0,127,Nauru,Electronics,Tuesday,False
+11501,Spearsland,65593523,2023-06-21,6,1149.42,0,85,Cyprus,Groceries,Wednesday,False
+27173,Spearsland,22571670,2022-05-07,5,533.5,0,0,Guinea-Bissau,Electronics,Saturday,False
+27929,Spearsland,18794205,2022-06-01,10,6186.51,10,0,Comoros,Clothing,Wednesday,False
+29013,Spearsland,47345331,2023-05-20,9,4011.75,0,27,North Macedonia,Electronics,Saturday,False
+24682,Spearsland,24102292,2023-07-14,6,5696.4,0,133,Sri Lanka,Clothing,Friday,False
+20169,Spearsland,93691949,2023-03-09,5,2595.45,0,5,Guinea,Clothing,Thursday,False
+5279,Spearsland,16840607,2022-06-12,10,7373.84,15,0,Mozambique,Furniture,Sunday,False
+10315,Spearsland,64503400,2022-03-23,1,190.01,0,169,Bahrain,Furniture,Wednesday,False
+12161,Spearsland,44234706,2023-04-11,8,1991.68,20,98,Namibia,Furniture,Tuesday,False
+20978,Spearsland,40024486,2023-05-26,8,4771.92,0,192,New Caledonia,Electronics,Friday,False
+5937,Spearsland,60070623,2022-03-31,4,2420.4,0,63,Sri Lanka,Groceries,Thursday,False
+21723,Spearsland,56655933,2023-06-09,7,391.93,0,175,Bermuda,Furniture,Friday,False
+19738,Spearsland,93691949,2022-01-02,10,5190.9,0,34,Netherlands Antilles,Clothing,Sunday,False
+16545,Spearsland,90008474,2023-04-09,9,2289.03,15,170,Albania,Electronics,Sunday,False
+15683,Spearsland,22286000,2022-11-29,8,1184.8,0,0,Ghana,Furniture,Tuesday,False
+10251,Spearsland,64503400,2022-01-18,5,950.05,0,83,Timor-Leste,Furniture,Tuesday,False
+12974,Spearsland,9189980,2023-07-02,7,3706.57,0,131,Syrian Arab Republic,Furniture,Sunday,False
+763,Spearsland,3636541,2022-02-02,11,10463.31,0,0,Malaysia,Furniture,Wednesday,False
+22166,Spearsland,56183269,2022-08-25,2,1222.94,0,0,Falkland Islands (Malvinas),Clothing,Thursday,False
+26202,Spearsland,71215150,2023-09-10,4,3241.24,0,0,Saint Pierre and Miquelon,Clothing,Sunday,False
+12546,Spearsland,9189980,2022-04-30,10,4236.08,20,82,Congo,Furniture,Saturday,False
+15854,Spearsland,22286000,2023-05-19,6,888.6,0,195,Netherlands Antilles,Furniture,Friday,False
+11247,Spearsland,65593523,2022-10-10,1,191.57,0,0,Western Sahara,Groceries,Monday,False
+14815,Spearsland,29925957,2022-07-15,9,5541.57,0,160,Australia,Clothing,Friday,False
+27986,Spearsland,18794205,2022-07-28,9,6186.51,0,146,Guadeloupe,Clothing,Thursday,False
+28165,Spearsland,18794205,2023-01-23,2,1374.78,0,62,Cape Verde,Clothing,Monday,False
+19094,Spearsland,89528563,2022-03-30,5,1038.4,0,33,Marshall Islands,Furniture,Wednesday,False
+18749,Spearsland,86469371,2023-04-20,6,4723.92,0,0,Seychelles,Furniture,Thursday,False
+10624,Spearsland,64503400,2023-01-26,3,570.03,0,155,Tokelau,Furniture,Thursday,False
+4579,Spearsland,9529489,2022-07-13,4,270.0,0,22,Iraq,Groceries,Wednesday,False
+29183,Spearsland,47345331,2023-11-06,9,4011.75,0,24,Antarctica (the territory South of 60 deg S),Electronics,Monday,False
+24786,Spearsland,24102292,2023-10-26,1,759.52,20,172,Antigua and Barbuda,Clothing,Thursday,False
+26278,Spearsland,71215150,2023-11-25,3,1944.74,20,28,Romania,Clothing,Saturday,False
+27487,Spearsland,22571670,2023-03-17,4,384.12,10,129,Canada,Electronics,Friday,False
+18152,Spearsland,6741754,2023-09-01,1,461.51,0,68,Mongolia,Groceries,Friday,False
+2336,Spearsland,34875230,2022-05-24,3,1808.01,0,6,Botswana,Groceries,Tuesday,False
+2779,Spearsland,34875230,2023-08-10,4,2169.61,10,189,Saint Helena,Groceries,Thursday,False
+18811,Spearsland,86469371,2023-06-21,7,4684.55,15,185,Burkina Faso,Furniture,Wednesday,False
+27216,Spearsland,22571670,2022-06-19,2,213.4,0,0,United Arab Emirates,Electronics,Sunday,False
+5777,Spearsland,16840607,2023-10-23,8,6940.08,0,135,Christmas Island,Furniture,Monday,False
+28227,Spearsland,18794205,2023-03-26,5,3436.95,0,148,Saint Vincent and the Grenadines,Clothing,Sunday,False
+28034,Spearsland,18794205,2022-09-14,6,4124.34,0,124,Luxembourg,Clothing,Wednesday,False
+5030,Spearsland,9529489,2023-10-07,10,675.0,0,76,Greece,Groceries,Saturday,False
+2304,Spearsland,34875230,2022-04-22,7,4007.76,5,0,Faroe Islands,Groceries,Friday,False
+24256,Spearsland,24102292,2022-05-14,16,13671.36,10,0,Poland,Clothing,Saturday,False
+4465,Spearsland,9529489,2022-03-21,4,270.0,0,0,Algeria,Groceries,Monday,False
+13432,Spearsland,38511400,2022-10-02,10,4376.3,0,128,Cocos (Keeling) Islands,Groceries,Sunday,False
+29340,Spearsland,22928719,2022-04-11,4,444.79,15,115,Greenland,Clothing,Monday,False
+3537,Spearsland,73978756,2023-09-06,3,493.38,0,165,Guyana,Clothing,Wednesday,False
+13233,Spearsland,38511400,2022-03-17,2,875.26,0,179,United Kingdom,Groceries,Thursday,False
+15724,Spearsland,22286000,2023-01-09,6,888.6,0,0,Bhutan,Furniture,Monday,False
+14379,Spearsland,8914811,2023-05-06,7,2088.24,0,0,Mauritania,Clothing,Saturday,False
+24870,Spearsland,8628619,2022-01-17,4,3863.92,0,0,United States Minor Outlying Islands,Electronics,Monday,False
+8047,Spearsland,30776388,2022-01-07,8,7761.68,0,125,Montenegro,Electronics,Friday,False
+4169,Spearsland,34892534,2023-05-30,6,986.58,0,92,Fiji,Furniture,Tuesday,False
+22734,Spearsland,47856080,2022-03-15,10,1788.2,0,0,Marshall Islands,Electronics,Tuesday,False
+24347,Spearsland,24102292,2022-08-13,7,6645.8,0,152,Paraguay,Clothing,Saturday,False
+24595,Spearsland,24102292,2023-04-18,7,6645.8,0,102,South Africa,Clothing,Tuesday,False
+12699,Spearsland,9189980,2022-09-30,11,5824.61,0,0,China,Furniture,Friday,False
+21443,Spearsland,56655933,2022-09-02,5,279.95,0,0,Antigua and Barbuda,Furniture,Friday,False
+3101,Spearsland,73978756,2022-06-27,4,657.84,0,0,Kyrgyz Republic,Clothing,Monday,False
+16514,Spearsland,90008474,2023-03-09,2,598.44,0,117,Australia,Electronics,Thursday,False
+11215,Spearsland,65593523,2022-09-08,3,574.71,0,0,Bahrain,Groceries,Thursday,False
+11118,Spearsland,65593523,2022-06-03,8,1532.56,0,77,Libyan Arab Jamahiriya,Groceries,Friday,False
+7178,Spearsland,36491025,2023-08-23,3,2132.97,0,195,Guinea,Electronics,Wednesday,False
+22367,Spearsland,56183269,2023-03-14,4,2445.88,0,156,Barbados,Clothing,Tuesday,False
+25277,Spearsland,8628619,2023-02-28,8,6182.27,20,0,Tokelau,Electronics,Tuesday,False
+16575,Spearsland,90008474,2023-05-09,5,1496.1,0,182,Saint Pierre and Miquelon,Electronics,Tuesday,False
+28728,Spearsland,47345331,2022-08-08,12,5349.0,0,180,Grenada,Electronics,Monday,False
+29841,Spearsland,22928719,2023-08-25,9,1177.38,0,0,Sao Tome and Principe,Clothing,Friday,False
+27019,Spearsland,96282526,2023-12-05,6,1869.42,0,0,Saudi Arabia,Groceries,Tuesday,False
+6126,Spearsland,60070623,2022-10-06,1,544.59,10,0,Estonia,Groceries,Thursday,False
+11293,Spearsland,65593523,2022-11-25,9,1551.72,10,0,Lao People's Democratic Republic,Groceries,Friday,False
+14143,Spearsland,8914811,2022-09-12,3,894.96,0,0,Mongolia,Clothing,Monday,False
+7949,Spearsland,80767985,2023-10-02,9,273.42,0,172,Kiribati,Electronics,Monday,False
+8570,Spearsland,30776388,2023-06-14,3,2910.63,0,8,Mayotte,Electronics,Wednesday,False
+3963,Spearsland,34892534,2022-11-05,6,789.26,20,0,Gibraltar,Furniture,Saturday,False
+5943,Spearsland,60070623,2022-04-06,9,5445.9,0,44,Netherlands,Groceries,Wednesday,False
+8942,Spearsland,65656938,2022-06-20,4,2669.18,20,0,Cocos (Keeling) Islands,Electronics,Monday,False
+13772,Spearsland,38511400,2023-09-07,5,1969.34,10,0,Saint Barthelemy,Groceries,Thursday,False
+11186,Spearsland,65593523,2022-08-10,2,325.67,15,11,Guam,Groceries,Wednesday,False
+12934,Spearsland,9189980,2023-05-23,9,4765.59,0,0,Mayotte,Furniture,Tuesday,False
+9146,Spearsland,65656938,2023-01-10,7,5838.84,0,182,Saint Pierre and Miquelon,Electronics,Tuesday,False
+5838,Spearsland,16840607,2023-12-23,10,8675.1,0,0,Lesotho,Furniture,Saturday,False
+23030,Spearsland,47856080,2023-01-05,7,1251.74,0,0,Netherlands Antilles,Electronics,Thursday,False
+16496,Spearsland,90008474,2023-02-19,4,957.5,20,39,Maldives,Electronics,Sunday,False
+7251,Spearsland,36491025,2023-11-04,8,5687.92,0,0,Madagascar,Electronics,Saturday,False
+8236,Spearsland,30776388,2022-07-15,3,2910.63,0,0,Nauru,Electronics,Friday,False
+9541,Spearsland,8978790,2022-02-08,6,1255.25,5,0,Mauritania,Furniture,Tuesday,False
+70,Spearsland,52372247,2022-03-12,3,1142.37,0,0,Sri Lanka,Furniture,Saturday,False
+9274,Spearsland,65656938,2023-05-18,5,4170.6,0,59,Gibraltar,Electronics,Thursday,False
+11047,Spearsland,65593523,2022-03-24,2,363.98,5,0,Jersey,Groceries,Thursday,False
+29709,Spearsland,22928719,2023-04-15,9,1177.38,0,160,Saint Martin,Clothing,Saturday,False
+1427,Spearsland,3636541,2023-11-28,4,3804.84,0,111,Barbados,Furniture,Tuesday,False
+22530,Spearsland,56183269,2023-08-24,10,6114.7,0,123,Ecuador,Clothing,Thursday,False
+29032,Spearsland,47345331,2023-06-08,4,1783.0,0,66,Denmark,Electronics,Thursday,False
+13825,Spearsland,38511400,2023-10-30,7,2603.9,15,0,Sierra Leone,Groceries,Monday,False
+7277,Spearsland,36491025,2023-11-30,9,6398.91,0,19,Portugal,Electronics,Thursday,False
+13770,Spearsland,38511400,2023-09-05,2,875.26,0,0,South Georgia and the South Sandwich Islands,Groceries,Tuesday,False
+29885,Spearsland,22928719,2023-10-08,8,1046.56,0,0,China,Clothing,Sunday,False
+11400,Spearsland,65593523,2023-03-12,9,1551.72,10,0,Myanmar,Groceries,Sunday,False
+10495,Spearsland,64503400,2022-09-19,10,1900.1,0,0,Netherlands,Furniture,Monday,False
+8823,Spearsland,65656938,2022-02-21,7,5838.84,0,127,Faroe Islands,Electronics,Monday,False
+5356,Spearsland,16840607,2022-08-28,9,7807.59,0,0,Turkey,Furniture,Sunday,False
+933,Spearsland,3636541,2022-07-22,3,2853.63,0,133,Saint Vincent and the Grenadines,Furniture,Friday,False
+19595,Spearsland,89528563,2023-08-13,9,1869.12,0,116,Latvia,Furniture,Sunday,False
+26595,Spearsland,96282526,2022-10-07,5,1557.85,0,158,Equatorial Guinea,Groceries,Friday,False
+7123,Spearsland,36491025,2023-06-29,3,2132.97,0,0,Botswana,Electronics,Thursday,False
+5307,Spearsland,16840607,2022-07-10,9,7807.59,0,64,Haiti,Furniture,Sunday,False
+21444,Spearsland,56655933,2022-09-03,4,201.56,10,8,Bouvet Island (Bouvetoya),Furniture,Saturday,False
+17732,Spearsland,6741754,2022-07-08,4,1476.83,20,0,American Samoa,Groceries,Friday,False
+18420,Spearsland,86469371,2022-05-26,6,4723.92,0,63,Benin,Furniture,Thursday,False
+26038,Spearsland,71215150,2023-03-30,9,7292.79,0,111,Dominican Republic,Clothing,Thursday,False
+21168,Spearsland,40024486,2023-12-02,4,2385.96,0,0,Nicaragua,Electronics,Saturday,False
+4276,Spearsland,34892534,2023-09-14,7,1151.01,0,0,Turks and Caicos Islands,Furniture,Thursday,False
+29838,Spearsland,22928719,2023-08-22,13,1700.66,0,103,United States Minor Outlying Islands,Clothing,Tuesday,False
+2927,Spearsland,73978756,2022-01-04,6,888.08,10,0,Trinidad and Tobago,Clothing,Tuesday,False
+9688,Spearsland,8978790,2022-07-05,6,1321.32,0,0,Comoros,Furniture,Tuesday,False
+23242,Spearsland,47856080,2023-08-05,9,1609.38,0,0,Turkey,Electronics,Saturday,False
+22774,Spearsland,47856080,2022-04-24,11,1967.02,0,143,Cote d'Ivoire,Electronics,Sunday,False
+24545,Spearsland,24102292,2023-02-27,11,10443.4,0,114,Czech Republic,Clothing,Monday,False
+29994,Spearsland,50239115,2022-01-24,7,3501.61,0,137,Hong Kong,Clothing,Monday,False
+4142,Spearsland,34892534,2023-05-03,7,1151.01,0,0,Samoa,Furniture,Wednesday,False
+26778,Spearsland,96282526,2023-04-08,7,1853.84,15,197,Ireland,Groceries,Saturday,False
+10414,Spearsland,64503400,2022-06-30,3,570.03,0,0,Iraq,Furniture,Thursday,False
+29176,Spearsland,47345331,2023-10-30,7,3120.25,0,0,Denmark,Electronics,Monday,False
+14413,Spearsland,8914811,2023-06-09,6,1789.92,0,0,Germany,Clothing,Friday,False
+26059,Spearsland,71215150,2023-04-20,4,3241.24,0,131,Bolivia,Clothing,Thursday,False
+27930,Spearsland,18794205,2022-06-02,10,6873.9,0,100,Benin,Clothing,Thursday,False
+2798,Spearsland,34875230,2023-08-29,4,2049.08,15,167,Monaco,Groceries,Tuesday,False
+20812,Spearsland,40024486,2022-12-11,10,5964.9,0,127,Japan,Electronics,Sunday,False
+12127,Spearsland,44234706,2023-03-08,2,622.4,0,174,Aruba,Furniture,Wednesday,False
+9662,Spearsland,8978790,2022-06-09,6,1321.32,0,0,French Guiana,Furniture,Thursday,False
+15580,Spearsland,22286000,2022-08-18,6,844.17,5,0,Saint Martin,Furniture,Thursday,False
+29971,Spearsland,50239115,2022-01-01,5,2251.04,10,111,Bhutan,Clothing,Saturday,False
+16690,Spearsland,90008474,2023-09-01,4,1196.88,0,184,Guadeloupe,Electronics,Friday,False
+7593,Spearsland,80767985,2022-10-11,5,151.9,0,0,Burkina Faso,Electronics,Tuesday,False
+4176,Spearsland,34892534,2023-06-06,7,1151.01,0,0,Saint Helena,Furniture,Tuesday,False
+10973,Spearsland,65593523,2022-01-09,4,613.02,20,38,Egypt,Groceries,Sunday,False
+7001,Spearsland,36491025,2023-02-27,1,710.99,0,0,Somalia,Electronics,Monday,False
+8590,Spearsland,30776388,2023-07-04,6,5821.26,0,0,French Guiana,Electronics,Tuesday,False
+13503,Spearsland,38511400,2022-12-12,4,1750.52,0,0,Myanmar,Groceries,Monday,False
+20223,Spearsland,93691949,2023-05-02,7,3270.27,10,0,Burkina Faso,Clothing,Tuesday,False
+21542,Spearsland,56655933,2022-12-10,8,380.73,15,0,Peru,Furniture,Saturday,False
+29179,Spearsland,47345331,2023-11-02,9,3209.4,20,173,Norway,Electronics,Thursday,False
+7654,Spearsland,80767985,2022-12-11,6,182.28,0,16,Maldives,Electronics,Sunday,False
+13670,Spearsland,38511400,2023-05-28,12,4726.4,10,130,Antigua and Barbuda,Groceries,Sunday,False
+29729,Spearsland,22928719,2023-05-05,7,915.74,0,161,Guyana,Clothing,Friday,False
+13219,Spearsland,38511400,2022-03-03,6,2625.78,0,28,Germany,Groceries,Thursday,False
+5447,Spearsland,16840607,2022-11-27,5,4120.67,5,0,Nigeria,Furniture,Sunday,False
+3379,Spearsland,73978756,2023-04-01,9,1480.14,0,0,Montserrat,Clothing,Saturday,False
+7043,Spearsland,36491025,2023-04-10,5,3021.71,15,146,Ethiopia,Electronics,Monday,False
+10446,Spearsland,64503400,2022-08-01,3,570.03,0,71,Malaysia,Furniture,Monday,False
+6295,Spearsland,60070623,2023-03-24,4,2420.4,0,0,Madagascar,Groceries,Friday,False
+2204,Spearsland,34875230,2022-01-12,5,2712.02,10,0,Jersey,Groceries,Wednesday,False
+6762,Spearsland,36491025,2022-07-03,9,6398.91,0,0,Antigua and Barbuda,Electronics,Sunday,False
+5421,Spearsland,16840607,2022-11-01,5,4337.55,0,0,Uruguay,Furniture,Tuesday,False
+13853,Spearsland,38511400,2023-11-27,4,1750.52,0,0,Mayotte,Groceries,Monday,False
+13686,Spearsland,38511400,2023-06-13,3,1312.89,0,0,Costa Rica,Groceries,Tuesday,False
+21490,Spearsland,56655933,2022-10-19,7,391.93,0,168,Cape Verde,Furniture,Wednesday,False
+5675,Spearsland,16840607,2023-07-13,11,9542.61,0,100,Togo,Furniture,Thursday,False
+13903,Spearsland,8914811,2022-01-15,6,1431.94,20,0,Serbia,Clothing,Saturday,False
+17299,Spearsland,62375351,2023-05-02,7,2608.9,0,137,Holy See (Vatican City State),Furniture,Tuesday,False
+21731,Spearsland,56655933,2023-06-17,5,279.95,0,102,Lithuania,Furniture,Saturday,False
+28599,Spearsland,47345331,2022-04-01,5,2228.75,0,0,India,Electronics,Friday,False
+27829,Spearsland,18794205,2022-02-21,6,4124.34,0,0,Yemen,Clothing,Monday,False
+14259,Spearsland,8914811,2023-01-06,4,1193.28,0,0,Morocco,Clothing,Friday,False
+14530,Spearsland,8914811,2023-10-04,5,1491.6,0,64,Mayotte,Clothing,Wednesday,False
+13579,Spearsland,38511400,2023-02-26,3,1312.89,0,0,Algeria,Groceries,Sunday,False
+1940,Spearsland,14258596,2023-04-24,4,2938.68,0,188,Honduras,Electronics,Monday,False
+10193,Spearsland,8978790,2023-11-22,7,1541.54,0,144,Sudan,Furniture,Wednesday,False
+12989,Spearsland,9189980,2023-07-17,3,1588.53,0,0,United Arab Emirates,Furniture,Monday,False
+10799,Spearsland,64503400,2023-07-20,5,950.05,0,0,Liberia,Furniture,Thursday,False
+9124,Spearsland,65656938,2022-12-19,9,7507.08,0,3,Swaziland,Electronics,Monday,False
+12329,Spearsland,44234706,2023-09-26,5,1556.0,0,107,Lithuania,Furniture,Tuesday,False
+12473,Spearsland,9189980,2022-02-16,3,1588.53,0,101,Costa Rica,Furniture,Wednesday,False
+11028,Spearsland,65593523,2022-03-05,6,1149.42,0,18,Mauritius,Groceries,Saturday,False
+25530,Spearsland,8628619,2023-11-08,7,6761.86,0,0,El Salvador,Electronics,Wednesday,False
+22053,Spearsland,56183269,2022-05-04,6,3668.82,0,2,Christmas Island,Clothing,Wednesday,False
+3968,Spearsland,34892534,2022-11-10,4,526.18,20,0,Netherlands Antilles,Furniture,Thursday,False
+7640,Spearsland,80767985,2022-11-27,6,145.82,20,39,Cyprus,Electronics,Sunday,False
+17328,Spearsland,62375351,2023-05-31,4,1490.8,0,0,Grenada,Furniture,Wednesday,False
+3030,Spearsland,73978756,2022-04-17,3,468.71,5,9,Guernsey,Clothing,Sunday,False
+16237,Spearsland,90008474,2022-06-05,6,1795.32,0,140,Macao,Electronics,Sunday,False
+20322,Spearsland,93691949,2023-08-09,7,3633.63,0,66,Philippines,Clothing,Wednesday,False
+5325,Spearsland,16840607,2022-07-28,9,7807.59,0,0,Congo,Furniture,Thursday,False
+197,Spearsland,52372247,2022-07-17,4,1370.84,10,0,Spain,Furniture,Sunday,False
+28294,Spearsland,18794205,2023-06-01,12,7011.38,15,0,Montserrat,Clothing,Thursday,False
+13673,Spearsland,38511400,2023-05-31,5,2188.15,0,14,Switzerland,Groceries,Wednesday,False
+29658,Spearsland,22928719,2023-02-23,6,784.92,0,0,Australia,Clothing,Thursday,False
+17268,Spearsland,62375351,2023-04-01,7,2478.46,5,22,Guernsey,Furniture,Saturday,False
+12381,Spearsland,44234706,2023-11-17,1,311.2,0,0,Hungary,Furniture,Friday,False
+11248,Spearsland,65593523,2022-10-11,4,766.28,0,0,Reunion,Groceries,Tuesday,False
+13467,Spearsland,38511400,2022-11-06,4,1750.52,0,129,Botswana,Groceries,Sunday,False
+10757,Spearsland,64503400,2023-06-08,7,1130.56,15,37,Korea,Furniture,Thursday,False
+11527,Spearsland,65593523,2023-07-17,3,574.71,0,14,Libyan Arab Jamahiriya,Groceries,Monday,False
+26929,Spearsland,96282526,2023-09-06,4,1246.28,0,0,Vietnam,Groceries,Wednesday,False
+19026,Spearsland,89528563,2022-01-21,1,207.68,0,66,El Salvador,Furniture,Friday,False
+1184,Spearsland,3636541,2023-03-30,5,4756.05,0,0,Puerto Rico,Furniture,Thursday,False
+3561,Spearsland,73978756,2023-09-30,9,1480.14,0,39,Guinea-Bissau,Clothing,Saturday,False
+11360,Spearsland,65593523,2023-01-31,4,689.65,10,0,Burkina Faso,Groceries,Tuesday,False
+679,Spearsland,52372247,2023-11-11,15,5711.85,0,0,Guernsey,Furniture,Saturday,False
+20231,Spearsland,93691949,2023-05-10,6,3114.54,0,98,Bosnia and Herzegovina,Clothing,Wednesday,False
+548,Spearsland,52372247,2023-07-03,7,2398.98,10,0,Cayman Islands,Furniture,Monday,False
+11706,Spearsland,44234706,2022-01-11,5,1556.0,0,0,South Africa,Furniture,Tuesday,False
+16673,Spearsland,90008474,2023-08-15,7,2094.54,0,21,French Polynesia,Electronics,Tuesday,False
+18917,Spearsland,86469371,2023-10-05,5,3936.6,0,0,Heard Island and McDonald Islands,Furniture,Thursday,False
+22111,Spearsland,56183269,2022-07-01,6,3668.82,0,0,Lebanon,Clothing,Friday,False
+16919,Spearsland,62375351,2022-04-17,2,745.4,0,150,Rwanda,Furniture,Sunday,False
+29562,Spearsland,22928719,2022-11-19,3,392.46,0,0,Reunion,Clothing,Saturday,False
+1769,Spearsland,14258596,2022-11-04,9,6612.03,0,9,North Macedonia,Electronics,Friday,False
+19135,Spearsland,89528563,2022-05-10,4,706.11,15,0,Philippines,Furniture,Tuesday,False
+20502,Spearsland,40024486,2022-02-04,9,5368.41,0,0,Jamaica,Electronics,Friday,False
+642,Spearsland,52372247,2023-10-05,1,323.67,15,0,Poland,Furniture,Thursday,False
+17755,Spearsland,6741754,2022-07-31,4,1846.04,0,30,Qatar,Groceries,Sunday,False
+21728,Spearsland,56655933,2023-06-14,2,89.58,20,174,Tokelau,Furniture,Wednesday,False
+24877,Spearsland,8628619,2022-01-24,7,6761.86,0,114,Portugal,Electronics,Monday,False
+27513,Spearsland,22571670,2023-04-12,6,640.2,0,0,Antarctica (the territory South of 60 deg S),Electronics,Wednesday,False
+19330,Spearsland,89528563,2022-11-21,4,830.72,0,75,Vietnam,Furniture,Monday,False
+6671,Spearsland,36491025,2022-04-03,3,1919.67,10,32,Ireland,Electronics,Sunday,False
+27335,Spearsland,22571670,2022-10-16,6,640.2,0,0,Slovakia (Slovak Republic),Electronics,Sunday,False
+13198,Spearsland,38511400,2022-02-10,7,3063.41,0,138,Syrian Arab Republic,Groceries,Thursday,False
+10696,Spearsland,64503400,2023-04-08,7,1330.07,0,0,Slovakia (Slovak Republic),Furniture,Saturday,False
+4001,Spearsland,34892534,2022-12-13,5,822.15,0,36,Mali,Furniture,Tuesday,False
+7631,Spearsland,80767985,2022-11-18,5,151.9,0,83,Gabon,Electronics,Friday,False
+10927,Spearsland,64503400,2023-11-25,5,950.05,0,0,Paraguay,Furniture,Saturday,False
+28330,Spearsland,18794205,2023-07-07,7,4811.73,0,0,Cook Islands,Clothing,Friday,False
+1251,Spearsland,3636541,2023-06-05,15,14268.15,0,1,Grenada,Furniture,Monday,False
+3949,Spearsland,34892534,2022-10-22,10,1644.3,0,0,Guinea-Bissau,Furniture,Saturday,False
+14610,Spearsland,8914811,2023-12-23,5,1491.6,0,0,French Polynesia,Clothing,Saturday,False
+409,Spearsland,52372247,2023-02-14,4,1523.16,0,0,Palau,Furniture,Tuesday,False
+29459,Spearsland,22928719,2022-08-08,6,784.92,0,14,El Salvador,Clothing,Monday,False
+10297,Spearsland,64503400,2022-03-05,7,1064.06,20,99,Slovenia,Furniture,Saturday,False
+3977,Spearsland,34892534,2022-11-19,1,164.43,0,0,Tanzania,Furniture,Saturday,False
+7201,Spearsland,36491025,2023-09-15,6,4265.94,0,82,Dominica,Electronics,Friday,False
+3031,Spearsland,73978756,2022-04-18,6,986.76,0,0,Nicaragua,Clothing,Monday,False
+3872,Spearsland,34892534,2022-08-06,4,657.72,0,0,Monaco,Furniture,Saturday,False
+6809,Spearsland,36491025,2022-08-19,4,2843.96,0,19,Zambia,Electronics,Friday,False
+12482,Spearsland,9189980,2022-02-25,6,3177.06,0,0,Pakistan,Furniture,Friday,False
+15552,Spearsland,22286000,2022-07-21,3,399.87,10,34,Algeria,Furniture,Thursday,False
+29546,Spearsland,22928719,2022-11-03,6,784.92,0,99,Samoa,Clothing,Thursday,False
+21169,Spearsland,40024486,2023-12-03,8,4771.92,0,0,Libyan Arab Jamahiriya,Electronics,Sunday,False
+876,Spearsland,3636541,2022-05-26,6,5707.26,0,68,Saint Martin,Furniture,Thursday,False
+19783,Spearsland,93691949,2022-02-16,8,4152.72,0,170,Tokelau,Clothing,Wednesday,False
+28540,Spearsland,47345331,2022-02-01,6,2674.5,0,0,Kazakhstan,Electronics,Tuesday,False
+1809,Spearsland,14258596,2022-12-14,12,8816.04,0,0,Bhutan,Electronics,Wednesday,False
+26896,Spearsland,96282526,2023-08-04,2,498.51,20,0,Serbia,Groceries,Friday,False
+27858,Spearsland,18794205,2022-03-22,8,5499.12,0,17,Bermuda,Clothing,Tuesday,False
+9618,Spearsland,8978790,2022-04-26,4,880.88,0,136,Norfolk Island,Furniture,Tuesday,False
+3378,Spearsland,73978756,2023-03-31,5,740.07,10,0,Mayotte,Clothing,Friday,False
+10896,Spearsland,64503400,2023-10-25,5,950.05,0,0,Finland,Furniture,Wednesday,False
+20524,Spearsland,40024486,2022-02-26,2,1192.98,0,118,Maldives,Electronics,Saturday,False
+10911,Spearsland,64503400,2023-11-09,8,1216.06,20,32,Estonia,Furniture,Thursday,False
+11776,Spearsland,44234706,2022-03-22,3,933.6,0,161,Togo,Furniture,Tuesday,False
+818,Spearsland,3636541,2022-03-29,6,5707.26,0,0,United Kingdom,Furniture,Tuesday,False
+9413,Spearsland,65656938,2023-10-04,7,5838.84,0,152,Paraguay,Electronics,Wednesday,False
+16600,Spearsland,90008474,2023-06-03,3,852.78,5,0,Finland,Electronics,Saturday,False
+3289,Spearsland,73978756,2023-01-01,10,1644.6,0,0,Libyan Arab Jamahiriya,Clothing,Sunday,False
+3183,Spearsland,73978756,2022-09-17,1,148.01,10,0,Korea,Clothing,Saturday,False
+26495,Spearsland,96282526,2022-06-29,3,934.71,0,173,Dominican Republic,Groceries,Wednesday,False
+21734,Spearsland,56655933,2023-06-20,1,47.59,15,52,Montenegro,Furniture,Tuesday,False
+3390,Spearsland,73978756,2023-04-12,9,1480.14,0,111,Greenland,Clothing,Wednesday,False
+5187,Spearsland,16840607,2022-03-12,7,6072.57,0,180,Philippines,Furniture,Saturday,False
+4440,Spearsland,9529489,2022-02-24,1,67.5,0,0,Norfolk Island,Groceries,Thursday,False
+16451,Spearsland,90008474,2023-01-05,7,2094.54,0,0,Martinique,Electronics,Thursday,False
+18551,Spearsland,86469371,2022-10-04,4,3149.28,0,65,Norway,Furniture,Tuesday,False
+23243,Spearsland,47856080,2023-08-06,12,1931.26,10,0,Austria,Electronics,Sunday,False
+10913,Spearsland,64503400,2023-11-11,10,1900.1,0,0,Croatia,Furniture,Saturday,False
+23771,Spearsland,81218219,2023-01-15,7,520.8,0,176,Palestinian Territory,Groceries,Sunday,False
+16645,Spearsland,90008474,2023-07-18,13,3889.86,0,180,Saudi Arabia,Electronics,Tuesday,False
+13625,Spearsland,38511400,2023-04-13,4,1750.52,0,18,Afghanistan,Groceries,Thursday,False
+25596,Spearsland,71215150,2022-01-12,3,2430.93,0,85,Morocco,Clothing,Wednesday,False
+28231,Spearsland,18794205,2023-03-30,11,7561.29,0,49,Bahamas,Clothing,Thursday,False
+23911,Spearsland,81218219,2023-06-04,3,223.2,0,171,Tokelau,Groceries,Sunday,False
+16202,Spearsland,90008474,2022-05-01,11,3291.42,0,25,Angola,Electronics,Sunday,False
+3115,Spearsland,73978756,2022-07-11,6,986.76,0,0,Brazil,Clothing,Monday,False
+20868,Spearsland,40024486,2023-02-05,4,2385.96,0,0,Russian Federation,Electronics,Sunday,False
+19805,Spearsland,93691949,2022-03-10,4,2076.36,0,138,Azerbaijan,Clothing,Thursday,False
+27627,Spearsland,22571670,2023-08-04,10,1067.0,0,151,Pakistan,Electronics,Friday,False
+18785,Spearsland,86469371,2023-05-26,4,2676.89,15,3,Chile,Furniture,Friday,False
+4222,Spearsland,34892534,2023-07-22,4,559.06,15,0,Tanzania,Furniture,Saturday,False
+19389,Spearsland,89528563,2023-01-19,5,986.48,5,0,Hungary,Furniture,Thursday,False
+3422,Spearsland,73978756,2023-05-14,9,1480.14,0,0,Saint Pierre and Miquelon,Clothing,Sunday,False
+24472,Spearsland,24102292,2022-12-16,5,4747.0,0,0,El Salvador,Clothing,Friday,False
+27570,Spearsland,22571670,2023-06-08,4,426.8,0,0,Niue,Electronics,Thursday,False
+15382,Spearsland,22286000,2022-02-01,5,592.4,20,0,Germany,Furniture,Tuesday,False
+17654,Spearsland,6741754,2022-04-21,4,1846.04,0,21,French Guiana,Groceries,Thursday,False
+22626,Spearsland,56183269,2023-11-28,2,1222.94,0,0,Morocco,Clothing,Tuesday,False
+27935,Spearsland,18794205,2022-06-07,10,6530.2,5,0,Bangladesh,Clothing,Tuesday,False
+14404,Spearsland,8914811,2023-05-31,6,1610.93,10,160,Sao Tome and Principe,Clothing,Wednesday,False
+20261,Spearsland,93691949,2023-06-09,12,6229.08,0,28,Martinique,Clothing,Friday,False
+26743,Spearsland,96282526,2023-03-04,6,1775.95,5,75,Kuwait,Groceries,Saturday,False
+7538,Spearsland,80767985,2022-08-17,9,273.42,0,0,Mali,Electronics,Wednesday,False
+15999,Spearsland,22286000,2023-10-11,0,0.0,5,0,Norway,Furniture,Wednesday,False
+18862,Spearsland,86469371,2023-08-11,6,4251.53,10,155,Aruba,Furniture,Friday,False
+4489,Spearsland,9529489,2022-04-14,3,202.5,0,12,Gibraltar,Groceries,Thursday,False
+3760,Spearsland,34892534,2022-04-16,11,1808.73,0,168,Kiribati,Furniture,Saturday,False
+407,Spearsland,52372247,2023-02-12,2,685.42,10,135,Montserrat,Furniture,Sunday,False
+22984,Spearsland,47856080,2022-11-20,15,2682.3,0,140,Spain,Electronics,Sunday,False
+13975,Spearsland,8914811,2022-03-28,6,1700.42,5,99,Poland,Clothing,Monday,False
+22409,Spearsland,56183269,2023-04-25,9,5503.23,0,129,Kazakhstan,Clothing,Tuesday,False
+9272,Spearsland,65656938,2023-05-16,3,2252.12,10,65,Marshall Islands,Electronics,Tuesday,False
+20415,Spearsland,93691949,2023-11-10,2,1038.18,0,140,New Caledonia,Clothing,Friday,False
+23416,Spearsland,81218219,2022-01-25,4,297.6,0,63,Marshall Islands,Groceries,Tuesday,False
+12342,Spearsland,44234706,2023-10-09,8,2489.6,0,0,Saint Vincent and the Grenadines,Furniture,Monday,False
+17371,Spearsland,62375351,2023-07-13,7,2608.9,0,0,Tokelau,Furniture,Thursday,False
+23050,Spearsland,47856080,2023-01-25,6,911.98,15,13,Sweden,Electronics,Wednesday,False
+26593,Spearsland,96282526,2022-10-05,5,1557.85,0,28,Timor-Leste,Groceries,Wednesday,False
+2703,Spearsland,34875230,2023-05-26,5,3013.35,0,113,Western Sahara,Groceries,Friday,False
+10131,Spearsland,8978790,2023-09-21,5,1101.1,0,0,Macao,Furniture,Thursday,False
+26876,Spearsland,96282526,2023-07-15,3,934.71,0,61,Faroe Islands,Groceries,Saturday,False
+8965,Spearsland,65656938,2022-07-13,10,8341.2,0,0,Christmas Island,Electronics,Wednesday,False
+15551,Spearsland,22286000,2022-07-20,0,0.0,10,33,Israel,Furniture,Wednesday,False
+15585,Spearsland,22286000,2022-08-23,10,1481.0,0,0,Poland,Furniture,Tuesday,False
+4193,Spearsland,34892534,2023-06-23,7,1151.01,0,59,Venezuela,Furniture,Friday,False
+25111,Spearsland,8628619,2022-09-15,4,3863.92,0,0,Peru,Electronics,Thursday,False
+22741,Spearsland,47856080,2022-03-22,9,1609.38,0,0,Bolivia,Electronics,Tuesday,False
+2632,Spearsland,34875230,2023-03-16,10,6026.7,0,0,Kazakhstan,Groceries,Thursday,False
+19692,Spearsland,89528563,2023-11-18,5,1038.4,0,0,Djibouti,Furniture,Saturday,False
+14385,Spearsland,8914811,2023-05-12,7,2088.24,0,3,Samoa,Clothing,Friday,False
+23122,Spearsland,47856080,2023-04-07,4,715.28,0,195,Bosnia and Herzegovina,Electronics,Friday,False
+14141,Spearsland,8914811,2022-09-10,6,1789.92,0,164,Saint Kitts and Nevis,Clothing,Saturday,False
+20490,Spearsland,40024486,2022-01-23,12,7157.88,0,51,Mozambique,Electronics,Sunday,False
+11389,Spearsland,65593523,2023-03-01,6,1149.42,0,0,Sierra Leone,Groceries,Wednesday,False
+18475,Spearsland,86469371,2022-07-20,5,3936.6,0,193,Netherlands Antilles,Furniture,Wednesday,False
+10484,Spearsland,64503400,2022-09-08,7,1330.07,0,178,Bouvet Island (Bouvetoya),Furniture,Thursday,False
+15715,Spearsland,22286000,2022-12-31,10,1481.0,0,0,Malaysia,Furniture,Saturday,False
+15192,Spearsland,29925957,2023-07-27,5,2462.92,20,0,Azerbaijan,Clothing,Thursday,False
+2455,Spearsland,34875230,2022-09-20,2,1084.81,10,0,Bosnia and Herzegovina,Groceries,Tuesday,False
+10597,Spearsland,64503400,2022-12-30,2,380.02,0,0,Solomon Islands,Furniture,Friday,False
+15449,Spearsland,22286000,2022-04-09,7,1036.7,0,32,Palau,Furniture,Saturday,False
+17976,Spearsland,6741754,2023-03-09,4,1846.04,0,0,Spain,Groceries,Thursday,False
+18426,Spearsland,86469371,2022-06-01,13,10235.16,0,160,Indonesia,Furniture,Wednesday,False
+24931,Spearsland,8628619,2022-03-19,7,5409.49,20,0,Cape Verde,Electronics,Saturday,False
+18797,Spearsland,86469371,2023-06-07,4,3149.28,0,0,Netherlands,Furniture,Wednesday,False
+19569,Spearsland,89528563,2023-07-18,7,1453.76,0,23,Kuwait,Furniture,Tuesday,False
+3587,Spearsland,73978756,2023-10-26,2,328.92,0,31,Kiribati,Clothing,Thursday,False
+206,Spearsland,52372247,2022-07-26,5,1713.56,10,0,United States of America,Furniture,Tuesday,False
+17015,Spearsland,62375351,2022-07-22,5,1863.5,0,0,Saint Martin,Furniture,Friday,False
+4439,Spearsland,9529489,2022-02-23,4,256.5,5,62,Bosnia and Herzegovina,Groceries,Wednesday,False
+14402,Spearsland,8914811,2023-05-29,7,2088.24,0,0,Hungary,Clothing,Monday,False
+12667,Spearsland,9189980,2022-08-29,9,4765.59,0,160,United States Minor Outlying Islands,Furniture,Monday,False
+19218,Spearsland,89528563,2022-08-01,6,1246.08,0,0,Congo,Furniture,Monday,False
+13925,Spearsland,8914811,2022-02-06,6,1789.92,0,32,Montserrat,Clothing,Sunday,False
+23263,Spearsland,47856080,2023-08-26,9,1609.38,0,163,Honduras,Electronics,Saturday,False
+11316,Spearsland,65593523,2022-12-18,8,1532.56,0,17,Brazil,Groceries,Sunday,False
+22491,Spearsland,56183269,2023-07-16,12,7337.64,0,86,Norway,Clothing,Sunday,False
+23176,Spearsland,47856080,2023-05-31,6,1072.92,0,94,Hungary,Electronics,Wednesday,False
+23428,Spearsland,81218219,2022-02-06,6,401.76,10,0,United Arab Emirates,Groceries,Sunday,False
+18706,Spearsland,86469371,2023-03-08,3,2361.96,0,0,Tunisia,Furniture,Wednesday,False
+6287,Spearsland,60070623,2023-03-16,4,2420.4,0,72,Jamaica,Groceries,Thursday,False
+4533,Spearsland,9529489,2022-05-28,6,405.0,0,88,Christmas Island,Groceries,Saturday,False
+10666,Spearsland,64503400,2023-03-09,6,1140.06,0,129,Russian Federation,Furniture,Thursday,False
+29159,Spearsland,47345331,2023-10-13,5,2228.75,0,59,El Salvador,Electronics,Friday,False
+23479,Spearsland,81218219,2022-03-29,3,178.56,20,186,Cape Verde,Groceries,Tuesday,False
+10810,Spearsland,64503400,2023-07-31,3,570.03,0,118,Guatemala,Furniture,Monday,False
+8905,Spearsland,65656938,2022-05-14,3,2502.36,0,0,Anguilla,Electronics,Saturday,False
+4643,Spearsland,9529489,2022-09-15,10,675.0,0,0,Aruba,Groceries,Thursday,False
+29788,Spearsland,22928719,2023-07-03,7,915.74,0,0,Barbados,Clothing,Monday,False
+29185,Spearsland,47345331,2023-11-08,3,1337.25,0,0,Chad,Electronics,Wednesday,False
+1566,Spearsland,14258596,2022-04-15,5,3673.35,0,9,El Salvador,Electronics,Friday,False
+7524,Spearsland,80767985,2022-08-03,7,191.39,10,0,Taiwan,Electronics,Wednesday,False
+1403,Spearsland,3636541,2023-11-04,8,6468.23,15,0,Congo,Furniture,Saturday,False
+15873,Spearsland,22286000,2023-06-07,7,881.2,15,86,Bosnia and Herzegovina,Furniture,Wednesday,False
+25344,Spearsland,8628619,2023-05-06,7,6761.86,0,0,Montenegro,Electronics,Saturday,False
+28187,Spearsland,18794205,2023-02-14,4,2749.56,0,90,United Kingdom,Clothing,Tuesday,False
+22169,Spearsland,56183269,2022-08-28,14,8560.58,0,0,Dominica,Clothing,Sunday,False
+14517,Spearsland,8914811,2023-09-21,13,3878.16,0,112,Ethiopia,Clothing,Thursday,False
+12780,Spearsland,9189980,2022-12-20,8,4024.28,5,0,Peru,Furniture,Tuesday,False
+19872,Spearsland,93691949,2022-05-16,10,5190.9,0,63,Palau,Clothing,Monday,False
+26957,Spearsland,96282526,2023-10-04,5,1557.85,0,0,Micronesia,Groceries,Wednesday,False
+9264,Spearsland,65656938,2023-05-08,5,4170.6,0,142,Guadeloupe,Electronics,Monday,False
+19627,Spearsland,89528563,2023-09-14,15,3115.2,0,0,Heard Island and McDonald Islands,Furniture,Thursday,False
+8875,Spearsland,65656938,2022-04-14,2,1584.83,5,0,Sao Tome and Principe,Electronics,Thursday,False
+13458,Spearsland,38511400,2022-10-28,4,1750.52,0,21,Iraq,Groceries,Friday,False
+17520,Spearsland,62375351,2023-12-09,16,5963.2,0,77,Kiribati,Furniture,Saturday,False
+28770,Spearsland,47345331,2022-09-19,6,2674.5,0,117,Croatia,Electronics,Monday,False
+1309,Spearsland,3636541,2023-08-02,3,2853.63,0,18,Kenya,Furniture,Wednesday,False
+16051,Spearsland,22286000,2023-12-02,13,1925.3,0,0,Bhutan,Furniture,Saturday,False
+26667,Spearsland,96282526,2022-12-18,10,3115.7,0,49,Bangladesh,Groceries,Sunday,False
+24348,Spearsland,24102292,2022-08-14,3,2848.2,0,0,Chile,Clothing,Sunday,False
+15695,Spearsland,22286000,2022-12-11,16,2369.6,0,162,Guatemala,Furniture,Sunday,False
+10212,Spearsland,8978790,2023-12-11,7,1541.54,0,0,Nigeria,Furniture,Monday,False
+11641,Spearsland,65593523,2023-11-08,4,766.28,0,0,Fiji,Groceries,Wednesday,False
+26895,Spearsland,96282526,2023-08-03,2,623.14,0,0,Saint Lucia,Groceries,Thursday,False
+3770,Spearsland,34892534,2022-04-26,8,1315.44,0,0,Bermuda,Furniture,Tuesday,False
+12659,Spearsland,9189980,2022-08-21,7,2965.26,20,172,Singapore,Furniture,Sunday,False
+14349,Spearsland,8914811,2023-04-06,9,2684.88,0,97,Brunei Darussalam,Clothing,Thursday,False
+12755,Spearsland,9189980,2022-11-25,7,3706.57,0,182,Rwanda,Furniture,Friday,False
+21140,Spearsland,40024486,2023-11-04,6,3578.94,0,0,Kenya,Electronics,Saturday,False
+24268,Spearsland,24102292,2022-05-26,12,11392.8,0,64,Falkland Islands (Malvinas),Clothing,Thursday,False
+23100,Spearsland,47856080,2023-03-16,4,679.52,5,50,Jersey,Electronics,Thursday,False
+17556,Spearsland,6741754,2022-01-13,4,1569.13,15,0,United Arab Emirates,Groceries,Thursday,False
+19566,Spearsland,89528563,2023-07-15,12,2492.16,0,0,Cameroon,Furniture,Saturday,False
+7247,Spearsland,36491025,2023-10-31,14,9953.86,0,0,Slovenia,Electronics,Tuesday,False
+2241,Spearsland,34875230,2022-02-18,6,3616.02,0,87,Jordan,Groceries,Friday,False
+2064,Spearsland,14258596,2023-08-26,12,8816.04,0,0,Myanmar,Electronics,Saturday,False
+24926,Spearsland,8628619,2022-03-14,4,3863.92,0,156,Mongolia,Electronics,Monday,False
+14018,Spearsland,8914811,2022-05-10,10,2684.88,10,27,Honduras,Clothing,Tuesday,False
+699,Spearsland,52372247,2023-12-01,0,0.0,0,40,Sierra Leone,Furniture,Friday,False
+23613,Spearsland,81218219,2022-08-10,5,353.4,5,82,Cayman Islands,Groceries,Wednesday,False
+6420,Spearsland,60070623,2023-07-27,3,1815.3,0,0,Kuwait,Groceries,Thursday,False
+2640,Spearsland,34875230,2023-03-24,5,3013.35,0,0,New Zealand,Groceries,Friday,False
+27518,Spearsland,22571670,2023-04-17,3,272.08,15,196,Central African Republic,Electronics,Monday,False
+12066,Spearsland,44234706,2023-01-06,2,622.4,0,0,Western Sahara,Furniture,Friday,False
+27228,Spearsland,22571670,2022-07-01,6,640.2,0,0,Mauritius,Electronics,Friday,False
+10314,Spearsland,64503400,2022-03-22,5,950.05,0,5,Eritrea,Furniture,Tuesday,False
+14717,Spearsland,29925957,2022-04-08,4,2216.63,10,35,Palestinian Territory,Clothing,Friday,False
+2460,Spearsland,34875230,2022-09-25,9,5424.03,0,0,Cayman Islands,Groceries,Sunday,False
+27556,Spearsland,22571670,2023-05-25,2,213.4,0,164,Netherlands Antilles,Electronics,Thursday,False
+18608,Spearsland,86469371,2022-11-30,14,11022.48,0,0,Belgium,Furniture,Wednesday,False
+10048,Spearsland,8978790,2023-06-30,6,1321.32,0,0,Panama,Furniture,Friday,False
+18506,Spearsland,86469371,2022-08-20,10,7873.2,0,5,Belize,Furniture,Saturday,False
+18141,Spearsland,6741754,2023-08-21,3,1384.53,0,171,Puerto Rico,Groceries,Monday,False
+14806,Spearsland,29925957,2022-07-06,9,5541.57,0,0,American Samoa,Clothing,Wednesday,False
+2404,Spearsland,34875230,2022-07-31,2,1205.34,0,0,Madagascar,Groceries,Sunday,False
+10096,Spearsland,8978790,2023-08-17,11,2422.42,0,155,Pitcairn Islands,Furniture,Thursday,False
+6652,Spearsland,36491025,2022-03-15,8,4834.73,15,157,Mozambique,Electronics,Tuesday,False
+24890,Spearsland,8628619,2022-02-06,14,13523.72,0,97,Guinea-Bissau,Electronics,Sunday,False
+11526,Spearsland,65593523,2023-07-16,1,181.99,5,102,Afghanistan,Groceries,Sunday,False
+26677,Spearsland,96282526,2022-12-28,3,934.71,0,0,Nicaragua,Groceries,Wednesday,False
+13946,Spearsland,8914811,2022-02-27,1,298.32,0,0,Tajikistan,Clothing,Sunday,False
+9204,Spearsland,65656938,2023-03-09,2,1501.42,10,0,India,Electronics,Thursday,False
+2383,Spearsland,34875230,2022-07-10,2,1205.34,0,100,Macao,Groceries,Sunday,False
+4319,Spearsland,34892534,2023-10-27,1,164.43,0,7,Cyprus,Furniture,Friday,False
+16796,Spearsland,90008474,2023-12-16,8,2393.76,0,0,Taiwan,Electronics,Saturday,False
+16924,Spearsland,62375351,2022-04-22,3,1118.1,0,50,Zambia,Furniture,Friday,False
+2205,Spearsland,34875230,2022-01-13,3,1808.01,0,43,Netherlands,Groceries,Thursday,False
+24084,Spearsland,81218219,2023-11-24,12,892.8,0,18,Gibraltar,Groceries,Friday,True
+25131,Spearsland,8628619,2022-10-05,7,6761.86,0,0,Taiwan,Electronics,Wednesday,False
+15339,Spearsland,29925957,2023-12-21,7,4310.11,0,183,Uzbekistan,Clothing,Thursday,False
+28513,Spearsland,47345331,2022-01-05,9,4011.75,0,0,Bahamas,Electronics,Wednesday,False
+17578,Spearsland,6741754,2022-02-04,4,1846.04,0,6,Cuba,Groceries,Friday,False
+23530,Spearsland,81218219,2022-05-19,6,357.12,20,6,Czech Republic,Groceries,Thursday,False
+14875,Spearsland,29925957,2022-09-13,7,3448.09,20,0,Malawi,Clothing,Tuesday,False
+7708,Spearsland,80767985,2023-02-03,6,182.28,0,0,Guinea-Bissau,Electronics,Friday,False
+21887,Spearsland,56655933,2023-11-20,5,279.95,0,0,Burundi,Furniture,Monday,False
+18441,Spearsland,86469371,2022-06-16,7,5511.24,0,0,Togo,Furniture,Thursday,False
+25441,Spearsland,8628619,2023-08-11,7,5747.58,15,80,Mongolia,Electronics,Friday,False
+8550,Spearsland,30776388,2023-05-25,5,4123.39,15,50,Estonia,Electronics,Thursday,False
+19989,Spearsland,93691949,2022-09-10,6,2491.63,20,0,Guadeloupe,Clothing,Saturday,False
+24418,Spearsland,24102292,2022-10-23,6,5696.4,0,31,Bahrain,Clothing,Sunday,False
+28917,Spearsland,47345331,2023-02-13,8,3566.0,0,0,Vietnam,Electronics,Monday,False
+10539,Spearsland,64503400,2022-11-02,4,608.03,20,0,Singapore,Furniture,Wednesday,False
+8535,Spearsland,30776388,2023-05-10,9,8731.89,0,0,Tanzania,Electronics,Wednesday,False
+9718,Spearsland,8978790,2022-08-04,9,1981.98,0,0,Somalia,Furniture,Thursday,False
+22463,Spearsland,56183269,2023-06-18,10,6114.7,0,167,Uruguay,Clothing,Sunday,False
+51,Spearsland,52372247,2022-02-21,3,1142.37,0,0,Germany,Furniture,Monday,False
+2167,Spearsland,14258596,2023-12-07,14,10285.38,0,18,Bahrain,Electronics,Thursday,False
+15183,Spearsland,29925957,2023-07-18,3,1847.19,0,10,Belize,Clothing,Tuesday,False
+20532,Spearsland,40024486,2022-03-06,8,4771.92,0,132,Guam,Electronics,Sunday,False
+29694,Spearsland,22928719,2023-03-31,3,392.46,0,119,Cook Islands,Clothing,Friday,False
+21052,Spearsland,40024486,2023-08-08,6,3578.94,0,0,Trinidad and Tobago,Electronics,Tuesday,False
+5161,Spearsland,16840607,2022-02-14,4,3470.04,0,127,American Samoa,Furniture,Monday,False
+7341,Spearsland,80767985,2022-02-01,3,91.14,0,0,Vanuatu,Electronics,Tuesday,False
+11038,Spearsland,65593523,2022-03-15,5,957.85,0,0,Dominican Republic,Groceries,Tuesday,False
+28783,Spearsland,47345331,2022-10-02,28,12481.0,0,88,Timor-Leste,Electronics,Sunday,False
+23673,Spearsland,81218219,2022-10-09,7,520.8,0,0,Iraq,Groceries,Sunday,False
+12884,Spearsland,9189980,2023-04-03,8,3812.47,10,0,Slovakia (Slovak Republic),Furniture,Monday,False
+483,Spearsland,52372247,2023-04-29,5,1713.56,10,82,Jamaica,Furniture,Saturday,False
+2482,Spearsland,34875230,2022-10-17,6,3616.02,0,0,Indonesia,Groceries,Monday,False
+1894,Spearsland,14258596,2023-03-09,7,5142.69,0,64,North Macedonia,Electronics,Thursday,False
+29364,Spearsland,22928719,2022-05-05,7,732.59,20,177,Afghanistan,Clothing,Thursday,False
+17630,Spearsland,6741754,2022-03-28,5,2192.17,5,0,Ecuador,Groceries,Monday,False
+4633,Spearsland,9529489,2022-09-05,1,60.75,10,0,Honduras,Groceries,Monday,False
+23139,Spearsland,47856080,2023-04-24,5,894.1,0,13,Finland,Electronics,Monday,False
+23676,Spearsland,81218219,2022-10-12,10,744.0,0,178,Jamaica,Groceries,Wednesday,False
+686,Spearsland,52372247,2023-11-18,8,2589.37,15,0,Mali,Furniture,Saturday,False
+9058,Spearsland,65656938,2022-10-14,12,8508.02,15,88,Kenya,Electronics,Friday,False
+18081,Spearsland,6741754,2023-06-22,7,3230.57,0,72,Anguilla,Groceries,Thursday,False
+2375,Spearsland,34875230,2022-07-02,4,2169.61,10,0,Nepal,Groceries,Saturday,False
+17236,Spearsland,62375351,2023-02-28,4,1267.18,15,0,Poland,Furniture,Tuesday,False
+5164,Spearsland,16840607,2022-02-17,7,6072.57,0,0,Afghanistan,Furniture,Thursday,False
+10175,Spearsland,8978790,2023-11-04,6,1321.32,0,0,Austria,Furniture,Saturday,False
+22753,Spearsland,47856080,2022-04-03,9,1609.38,0,0,Algeria,Electronics,Sunday,False
+5392,Spearsland,16840607,2022-10-03,7,4858.06,20,0,Israel,Furniture,Monday,False
+26438,Spearsland,96282526,2022-05-03,4,1246.28,0,0,Trinidad and Tobago,Groceries,Tuesday,False
+10157,Spearsland,8978790,2023-10-17,5,1101.1,0,0,Zambia,Furniture,Tuesday,False
+15895,Spearsland,22286000,2023-06-29,10,1481.0,0,148,Guernsey,Furniture,Thursday,False
+2730,Spearsland,34875230,2023-06-22,4,2410.68,0,196,Panama,Groceries,Thursday,False
+3509,Spearsland,73978756,2023-08-09,1,139.79,15,0,Israel,Clothing,Wednesday,False
+24765,Spearsland,24102292,2023-10-05,2,1898.8,0,0,Czech Republic,Clothing,Thursday,False
+26722,Spearsland,96282526,2023-02-11,4,1246.28,0,0,Cape Verde,Groceries,Saturday,False
+6767,Spearsland,36491025,2022-07-08,4,2843.96,0,69,Trinidad and Tobago,Electronics,Friday,False
+18609,Spearsland,86469371,2022-12-01,9,7085.88,0,0,Mauritania,Furniture,Thursday,False
+7694,Spearsland,80767985,2023-01-20,7,212.66,0,151,Madagascar,Electronics,Friday,False
+19574,Spearsland,89528563,2023-07-23,10,1869.12,10,28,Angola,Furniture,Sunday,False
+25100,Spearsland,8628619,2022-09-04,19,18353.62,0,170,Uruguay,Electronics,Sunday,False
+438,Spearsland,52372247,2023-03-15,7,2132.42,20,180,Myanmar,Furniture,Wednesday,False
+2581,Spearsland,34875230,2023-01-24,4,2410.68,0,164,Cyprus,Groceries,Tuesday,False
+27378,Spearsland,22571670,2022-11-28,12,1280.4,0,0,Kiribati,Electronics,Monday,False
+13910,Spearsland,8914811,2022-01-22,2,596.64,0,0,Nicaragua,Clothing,Saturday,False
+19254,Spearsland,89528563,2022-09-06,10,1869.12,10,141,Cayman Islands,Furniture,Tuesday,False
+19373,Spearsland,89528563,2023-01-03,1,207.68,0,156,Comoros,Furniture,Tuesday,False
+2665,Spearsland,34875230,2023-04-18,6,3616.02,0,0,Indonesia,Groceries,Tuesday,False
+29959,Spearsland,22928719,2023-12-21,1,130.82,0,113,Armenia,Clothing,Thursday,False
+11906,Spearsland,44234706,2022-07-30,6,1493.76,20,190,Macao,Furniture,Saturday,False
+11555,Spearsland,65593523,2023-08-14,7,1072.79,20,188,New Zealand,Groceries,Monday,False
+27482,Spearsland,22571670,2023-03-12,5,533.5,0,0,Saint Martin,Electronics,Sunday,False
+6401,Spearsland,60070623,2023-07-08,7,4235.7,0,0,Mauritius,Groceries,Saturday,False
+19587,Spearsland,89528563,2023-08-05,14,2907.52,0,0,Grenada,Furniture,Saturday,False
+6719,Spearsland,36491025,2022-05-21,7,4479.24,10,0,Azerbaijan,Electronics,Saturday,False
+20491,Spearsland,40024486,2022-01-24,7,4175.43,0,0,Uzbekistan,Electronics,Monday,False
+29554,Spearsland,22928719,2022-11-11,3,392.46,0,0,Austria,Clothing,Friday,False
+18422,Spearsland,86469371,2022-05-28,7,5235.68,5,9,Fiji,Furniture,Saturday,False
+17127,Spearsland,62375351,2022-11-11,9,3354.3,0,26,Belize,Furniture,Friday,False
+6550,Spearsland,60070623,2023-12-04,6,3630.6,0,198,Botswana,Groceries,Monday,False
+9557,Spearsland,8978790,2022-02-24,3,528.53,20,0,South Africa,Furniture,Thursday,False
+26435,Spearsland,96282526,2022-04-30,1,311.57,0,0,Nauru,Groceries,Saturday,False
+13781,Spearsland,38511400,2023-09-16,6,2231.91,15,112,Greece,Groceries,Saturday,False
+28271,Spearsland,18794205,2023-05-09,7,4811.73,0,0,South Georgia and the South Sandwich Islands,Clothing,Tuesday,False
+29401,Spearsland,22928719,2022-06-11,5,654.1,0,0,Tunisia,Clothing,Saturday,False
+9523,Spearsland,8978790,2022-01-21,9,1981.98,0,0,Turkmenistan,Furniture,Friday,False
+8222,Spearsland,30776388,2022-07-01,4,3880.84,0,0,Western Sahara,Electronics,Friday,False
+7254,Spearsland,36491025,2023-11-07,3,2132.97,0,0,Bahamas,Electronics,Tuesday,False
+28724,Spearsland,47345331,2022-08-04,10,4011.75,10,0,Chile,Electronics,Thursday,False
+8757,Spearsland,30776388,2023-12-18,10,8731.89,10,0,Paraguay,Electronics,Monday,False
+10084,Spearsland,8978790,2023-08-05,7,1541.54,0,0,French Guiana,Furniture,Saturday,False
+3103,Spearsland,73978756,2022-06-29,1,156.24,5,0,Costa Rica,Clothing,Wednesday,False
+16436,Spearsland,90008474,2022-12-21,7,1675.63,20,0,Kazakhstan,Electronics,Wednesday,False
+24893,Spearsland,8628619,2022-02-09,9,8693.82,0,4,Aruba,Electronics,Wednesday,False
+6296,Spearsland,60070623,2023-03-25,7,4235.7,0,0,Guadeloupe,Groceries,Saturday,False
+142,Spearsland,52372247,2022-05-23,3,1142.37,0,165,Uzbekistan,Furniture,Monday,False
+16607,Spearsland,90008474,2023-06-10,14,4189.08,0,142,Cyprus,Electronics,Saturday,False
+14469,Spearsland,8914811,2023-08-04,9,2684.88,0,0,Comoros,Clothing,Friday,False
+12040,Spearsland,44234706,2022-12-11,13,4045.6,0,175,Tajikistan,Furniture,Sunday,False
+16333,Spearsland,90008474,2022-09-09,7,2094.54,0,0,Norfolk Island,Electronics,Friday,False
+8521,Spearsland,30776388,2023-04-26,4,3880.84,0,125,Kazakhstan,Electronics,Wednesday,False
+28128,Spearsland,18794205,2022-12-17,4,2612.08,5,0,Germany,Clothing,Saturday,False
+22536,Spearsland,56183269,2023-08-30,7,4280.29,0,0,Cook Islands,Clothing,Wednesday,False
+16336,Spearsland,90008474,2022-09-12,7,1675.63,20,0,Wallis and Futuna,Electronics,Monday,False
+15696,Spearsland,22286000,2022-12-12,5,740.5,0,0,Angola,Furniture,Monday,False
+20793,Spearsland,40024486,2022-11-22,7,4175.43,0,0,Malawi,Electronics,Tuesday,False
+18631,Spearsland,86469371,2022-12-23,8,6298.56,0,0,Thailand,Furniture,Friday,False
+19622,Spearsland,89528563,2023-09-09,4,830.72,0,88,Tonga,Furniture,Saturday,False
+6820,Spearsland,36491025,2022-08-30,3,2132.97,0,0,Faroe Islands,Electronics,Tuesday,False
+14494,Spearsland,8914811,2023-08-29,7,2088.24,0,78,Ethiopia,Clothing,Tuesday,False
+7149,Spearsland,36491025,2023-07-25,6,4265.94,0,0,Palestinian Territory,Electronics,Tuesday,False
+13268,Spearsland,38511400,2022-04-21,6,2625.78,0,0,Jersey,Groceries,Thursday,False
+25845,Spearsland,71215150,2022-09-18,9,7292.79,0,0,Norway,Clothing,Sunday,False
+7632,Spearsland,80767985,2022-11-19,15,432.92,5,0,Swaziland,Electronics,Saturday,False
+24730,Spearsland,24102292,2023-08-31,3,2848.2,0,199,Nicaragua,Clothing,Thursday,False
+6795,Spearsland,36491025,2022-08-05,7,4976.93,0,0,Brunei Darussalam,Electronics,Friday,False
+13474,Spearsland,38511400,2022-11-13,4,1750.52,0,0,Reunion,Groceries,Sunday,False
+11179,Spearsland,65593523,2022-08-03,7,1340.99,0,174,Bosnia and Herzegovina,Groceries,Wednesday,False
+1788,Spearsland,14258596,2022-11-23,16,11754.72,0,152,Namibia,Electronics,Wednesday,False
+15353,Spearsland,22286000,2022-01-03,2,296.2,0,166,Hong Kong,Furniture,Monday,False
+5119,Spearsland,16840607,2022-01-03,5,4337.55,0,0,Latvia,Furniture,Monday,False
+8852,Spearsland,65656938,2022-03-22,6,5004.72,0,153,Belgium,Electronics,Tuesday,False
+3171,Spearsland,73978756,2022-09-05,7,1151.22,0,0,Benin,Clothing,Monday,False
+25922,Spearsland,71215150,2022-12-04,9,6928.15,5,51,Argentina,Clothing,Sunday,False
+29808,Spearsland,22928719,2023-07-23,14,1831.48,0,128,Guatemala,Clothing,Sunday,False
+22330,Spearsland,56183269,2023-02-05,5,3057.35,0,18,Finland,Clothing,Sunday,False
+151,Spearsland,52372247,2022-06-01,9,2913.04,15,0,Thailand,Furniture,Wednesday,False
+25611,Spearsland,71215150,2022-01-27,4,3241.24,0,0,Hungary,Clothing,Thursday,False
+1255,Spearsland,3636541,2023-06-09,6,5136.53,10,102,Syrian Arab Republic,Furniture,Friday,False
+16145,Spearsland,90008474,2022-03-05,7,2094.54,0,0,Greece,Electronics,Saturday,False
+21897,Spearsland,56655933,2023-11-30,7,391.93,0,32,Egypt,Furniture,Thursday,False
+21666,Spearsland,56655933,2023-04-13,4,223.96,0,195,Bolivia,Furniture,Thursday,False
+24533,Spearsland,24102292,2023-02-15,7,6645.8,0,0,China,Clothing,Wednesday,False
+27573,Spearsland,22571670,2023-06-11,7,746.9,0,0,Solomon Islands,Electronics,Sunday,False
+5507,Spearsland,16840607,2023-01-26,6,5205.06,0,0,Malta,Furniture,Thursday,False
+292,Spearsland,52372247,2022-10-20,7,2665.53,0,0,Saint Vincent and the Grenadines,Furniture,Thursday,False
+28478,Spearsland,18794205,2023-12-02,6,4124.34,0,0,Guernsey,Clothing,Saturday,False
+17389,Spearsland,62375351,2023-07-31,6,2124.39,5,61,Equatorial Guinea,Furniture,Monday,False
+19381,Spearsland,89528563,2023-01-11,5,830.72,20,0,Guatemala,Furniture,Wednesday,False
+4858,Spearsland,9529489,2023-04-18,3,162.0,20,16,Tanzania,Groceries,Tuesday,False
+7638,Spearsland,80767985,2022-11-25,16,486.08,0,0,Greenland,Electronics,Friday,False
+12655,Spearsland,9189980,2022-08-17,6,3177.06,0,0,Paraguay,Furniture,Wednesday,False
+5811,Spearsland,16840607,2023-11-26,1,867.51,0,0,Turks and Caicos Islands,Furniture,Sunday,False
+20281,Spearsland,93691949,2023-06-29,9,4671.81,0,0,Cocos (Keeling) Islands,Clothing,Thursday,False
+23650,Spearsland,81218219,2022-09-16,3,200.88,10,154,Iran,Groceries,Friday,False
+4693,Spearsland,9529489,2022-11-04,6,405.0,0,137,Afghanistan,Groceries,Friday,False
+3830,Spearsland,34892534,2022-06-25,1,139.77,15,4,Norway,Furniture,Saturday,False
+29430,Spearsland,22928719,2022-07-10,6,784.92,0,0,French Polynesia,Clothing,Sunday,False
+8596,Spearsland,30776388,2023-07-10,9,8731.89,0,165,Estonia,Electronics,Monday,False
+29147,Spearsland,47345331,2023-10-01,8,3387.7,5,75,Barbados,Electronics,Sunday,False
+7298,Spearsland,36491025,2023-12-21,10,5687.92,20,0,Congo,Electronics,Thursday,False
+16160,Spearsland,90008474,2022-03-20,14,3351.26,20,30,Cuba,Electronics,Sunday,False
+28992,Spearsland,47345331,2023-04-29,7,3120.25,0,0,Australia,Electronics,Saturday,False
+25934,Spearsland,71215150,2022-12-16,2,1620.62,0,0,Spain,Clothing,Friday,False
+12946,Spearsland,9189980,2023-06-04,4,1800.33,15,19,Azerbaijan,Furniture,Sunday,False
+28141,Spearsland,18794205,2022-12-30,3,2062.17,0,42,Slovenia,Clothing,Friday,False
+11462,Spearsland,65593523,2023-05-13,9,1724.13,0,185,Guam,Groceries,Saturday,False
+21783,Spearsland,56655933,2023-08-08,3,167.97,0,187,Jersey,Furniture,Tuesday,False
+6706,Spearsland,36491025,2022-05-08,6,4265.94,0,0,Bhutan,Electronics,Sunday,False
+10590,Spearsland,64503400,2022-12-23,12,2280.12,0,0,Djibouti,Furniture,Friday,False
+17002,Spearsland,62375351,2022-07-09,10,3727.0,0,72,Bhutan,Furniture,Saturday,False
+8791,Spearsland,65656938,2022-01-20,4,3336.48,0,151,Brunei Darussalam,Electronics,Thursday,False
+25980,Spearsland,71215150,2023-01-31,9,7292.79,0,193,Finland,Clothing,Tuesday,False
+21735,Spearsland,56655933,2023-06-21,1,55.99,0,0,Tajikistan,Furniture,Wednesday,False
+362,Spearsland,52372247,2022-12-29,7,2665.53,0,0,Malta,Furniture,Thursday,False
+19826,Spearsland,93691949,2022-03-31,4,2076.36,0,0,Micronesia,Clothing,Thursday,False
+23417,Spearsland,81218219,2022-01-26,6,446.4,0,0,Denmark,Groceries,Wednesday,False
+11488,Spearsland,65593523,2023-06-08,4,766.28,0,127,Romania,Groceries,Thursday,False
+5420,Spearsland,16840607,2022-10-31,9,7807.59,0,198,Jersey,Furniture,Monday,False
+8706,Spearsland,30776388,2023-10-28,6,5821.26,0,0,Central African Republic,Electronics,Saturday,False
+11781,Spearsland,44234706,2022-03-27,3,933.6,0,161,Palau,Furniture,Sunday,False
+24988,Spearsland,8628619,2022-05-15,5,4829.9,0,0,Mauritius,Electronics,Sunday,False
+17516,Spearsland,62375351,2023-12-05,9,2851.16,15,0,Tunisia,Furniture,Tuesday,False
+4282,Spearsland,34892534,2023-09-20,6,789.26,20,39,Finland,Furniture,Wednesday,False
+9837,Spearsland,8978790,2022-12-01,7,1541.54,0,0,Finland,Furniture,Thursday,False
+27363,Spearsland,22571670,2022-11-13,10,1067.0,0,48,Venezuela,Electronics,Sunday,False
+22073,Spearsland,56183269,2022-05-24,18,11006.46,0,0,Hong Kong,Clothing,Tuesday,False
+15450,Spearsland,22286000,2022-04-10,10,1481.0,0,0,Nicaragua,Furniture,Sunday,False
+14516,Spearsland,8914811,2023-09-20,3,894.96,0,117,Chad,Clothing,Wednesday,False
+25097,Spearsland,8628619,2022-09-01,6,5795.88,0,0,Brazil,Electronics,Thursday,False
+20580,Spearsland,40024486,2022-04-23,2,1192.98,0,8,Niger,Electronics,Saturday,False
+12841,Spearsland,9189980,2023-02-19,1,529.51,0,169,Niger,Furniture,Sunday,False
+4824,Spearsland,9529489,2023-03-15,2,128.25,5,0,Falkland Islands (Malvinas),Groceries,Wednesday,False
+28811,Spearsland,47345331,2022-10-30,15,6686.25,0,0,Australia,Electronics,Sunday,False
+7226,Spearsland,36491025,2023-10-10,5,3199.46,10,44,Tanzania,Electronics,Tuesday,False
+13969,Spearsland,8914811,2022-03-22,2,596.64,0,0,Nauru,Clothing,Tuesday,False
+9322,Spearsland,65656938,2023-07-05,3,2502.36,0,0,Sri Lanka,Electronics,Wednesday,False
+12860,Spearsland,9189980,2023-03-10,7,3150.58,15,0,Western Sahara,Furniture,Friday,False
+4853,Spearsland,9529489,2023-04-13,3,202.5,0,187,Mali,Groceries,Thursday,False
+22820,Spearsland,47856080,2022-06-09,3,536.46,0,6,Bahamas,Electronics,Thursday,False
+22553,Spearsland,56183269,2023-09-16,12,7337.64,0,161,Netherlands Antilles,Clothing,Saturday,False
+15840,Spearsland,22286000,2023-05-05,9,1066.32,20,0,Croatia,Furniture,Friday,False
+26592,Spearsland,96282526,2022-10-04,4,1246.28,0,55,Libyan Arab Jamahiriya,Groceries,Tuesday,False
+28389,Spearsland,18794205,2023-09-04,2,1374.78,0,170,Turkey,Clothing,Monday,False
+2297,Spearsland,34875230,2022-04-15,4,2410.68,0,0,Singapore,Groceries,Friday,False
+27687,Spearsland,22571670,2023-10-03,10,906.95,15,60,Western Sahara,Electronics,Tuesday,False
+5165,Spearsland,16840607,2022-02-18,9,7417.21,5,0,Suriname,Furniture,Friday,False
+16192,Spearsland,90008474,2022-04-21,3,897.66,0,90,Malawi,Electronics,Thursday,False
+1886,Spearsland,14258596,2023-03-01,6,4408.02,0,0,Ecuador,Electronics,Wednesday,False
+26751,Spearsland,96282526,2023-03-12,4,1246.28,0,22,Kiribati,Groceries,Sunday,False
+24262,Spearsland,24102292,2022-05-20,7,6645.8,0,183,Malawi,Clothing,Friday,False
+5551,Spearsland,16840607,2023-03-11,6,5205.06,0,140,Turks and Caicos Islands,Furniture,Saturday,False
+2615,Spearsland,34875230,2023-02-27,6,3616.02,0,5,Christmas Island,Groceries,Monday,False
+21235,Spearsland,56655933,2022-02-06,5,265.95,5,0,Bangladesh,Furniture,Sunday,False
+9452,Spearsland,65656938,2023-11-12,15,12511.8,0,0,Burkina Faso,Electronics,Sunday,False
+22596,Spearsland,56183269,2023-10-29,3,1650.97,10,29,Vietnam,Clothing,Sunday,False
+23894,Spearsland,81218219,2023-05-18,3,223.2,0,183,Tokelau,Groceries,Thursday,False
+2790,Spearsland,34875230,2023-08-21,8,4821.36,0,0,Niger,Groceries,Monday,False
+3374,Spearsland,73978756,2023-03-27,3,493.38,0,0,Nauru,Clothing,Monday,False
+20884,Spearsland,40024486,2023-02-21,3,1521.05,15,69,Martinique,Electronics,Tuesday,False
+27433,Spearsland,22571670,2023-01-22,8,810.92,5,0,Holy See (Vatican City State),Electronics,Sunday,False
+21726,Spearsland,56655933,2023-06-12,2,111.98,0,0,Kenya,Furniture,Monday,False
+17305,Spearsland,62375351,2023-05-08,7,2608.9,0,0,Equatorial Guinea,Furniture,Monday,False
+22357,Spearsland,56183269,2023-03-04,11,6726.17,0,0,South Georgia and the South Sandwich Islands,Clothing,Saturday,False
+28619,Spearsland,47345331,2022-04-21,4,1783.0,0,0,Colombia,Electronics,Thursday,False
+27941,Spearsland,18794205,2022-06-13,10,6530.2,5,21,Libyan Arab Jamahiriya,Clothing,Monday,False
+11677,Spearsland,65593523,2023-12-14,5,957.85,0,116,Niue,Groceries,Thursday,False
+10568,Spearsland,64503400,2022-12-01,7,1263.57,5,0,Kuwait,Furniture,Thursday,False
+9333,Spearsland,65656938,2023-07-16,9,7507.08,0,120,Cyprus,Electronics,Sunday,False
+12489,Spearsland,9189980,2022-03-04,6,2700.5,15,0,Iceland,Furniture,Friday,False
+27052,Spearsland,22571670,2022-01-06,8,853.6,0,97,Denmark,Electronics,Thursday,False
+209,Spearsland,52372247,2022-07-29,7,2665.53,0,0,Tonga,Furniture,Friday,False
+29566,Spearsland,22928719,2022-11-23,5,523.28,20,65,Russian Federation,Clothing,Wednesday,False
+13997,Spearsland,8914811,2022-04-19,15,4251.06,5,0,Western Sahara,Clothing,Tuesday,False
+8966,Spearsland,65656938,2022-07-14,6,5004.72,0,0,Zimbabwe,Electronics,Thursday,False
+15792,Spearsland,22286000,2023-03-18,6,888.6,0,64,Heard Island and McDonald Islands,Furniture,Saturday,False
+15076,Spearsland,29925957,2023-04-02,7,4310.11,0,0,Jordan,Clothing,Sunday,False
+10293,Spearsland,64503400,2022-03-01,12,1824.1,20,0,Tunisia,Furniture,Tuesday,False
+22707,Spearsland,47856080,2022-02-16,8,1359.03,5,9,Ecuador,Electronics,Wednesday,False
+1193,Spearsland,3636541,2023-04-08,2,1902.42,0,0,Kuwait,Furniture,Saturday,False
+21059,Spearsland,40024486,2023-08-15,4,2028.07,15,0,Armenia,Electronics,Tuesday,False
+22404,Spearsland,56183269,2023-04-20,9,5503.23,0,0,Ecuador,Clothing,Thursday,False
+11778,Spearsland,44234706,2022-03-24,7,2178.4,0,0,Guyana,Furniture,Thursday,False
+13802,Spearsland,38511400,2023-10-07,12,4463.83,15,0,Saint Pierre and Miquelon,Groceries,Saturday,False
+16404,Spearsland,90008474,2022-11-19,6,1795.32,0,178,Macao,Electronics,Saturday,False
+26921,Spearsland,96282526,2023-08-29,5,1557.85,0,0,French Southern Territories,Groceries,Tuesday,False
+6163,Spearsland,60070623,2022-11-12,6,2904.48,20,12,Guatemala,Groceries,Saturday,False
+7668,Spearsland,80767985,2022-12-25,12,364.56,0,182,Saint Lucia,Electronics,Sunday,True
+7816,Spearsland,80767985,2023-05-22,4,115.44,5,0,North Macedonia,Electronics,Monday,False
+9510,Spearsland,8978790,2022-01-08,2,440.44,0,61,Mongolia,Furniture,Saturday,False
+4423,Spearsland,9529489,2022-02-07,3,202.5,0,71,Djibouti,Groceries,Monday,False
+7427,Spearsland,80767985,2022-04-28,3,77.47,15,110,Ireland,Electronics,Thursday,False
+6194,Spearsland,60070623,2022-12-13,3,1815.3,0,6,Azerbaijan,Groceries,Tuesday,False
+28656,Spearsland,47345331,2022-05-28,2,802.35,10,0,Chile,Electronics,Saturday,False
+15533,Spearsland,22286000,2022-07-02,6,888.6,0,34,Belgium,Furniture,Saturday,False
+22860,Spearsland,47856080,2022-07-19,6,1072.92,0,0,Bangladesh,Electronics,Tuesday,False
+19294,Spearsland,89528563,2022-10-16,6,1246.08,0,0,South Africa,Furniture,Sunday,False
+22914,Spearsland,47856080,2022-09-11,5,894.1,0,0,Czech Republic,Electronics,Sunday,False
+28333,Spearsland,18794205,2023-07-10,10,5842.82,15,29,Netherlands,Clothing,Monday,False
+8949,Spearsland,65656938,2022-06-27,3,2502.36,0,37,French Southern Territories,Electronics,Monday,False
+27183,Spearsland,22571670,2022-05-17,5,453.48,15,49,Jordan,Electronics,Tuesday,False
+8911,Spearsland,65656938,2022-05-20,4,3336.48,0,51,Malta,Electronics,Friday,False
+10781,Spearsland,64503400,2023-07-02,10,1900.1,0,72,Norway,Furniture,Sunday,False
+22794,Spearsland,47856080,2022-05-14,5,849.4,5,0,Cook Islands,Electronics,Saturday,False
+17544,Spearsland,6741754,2022-01-01,4,1846.04,0,87,Tuvalu,Groceries,Saturday,False
+13181,Spearsland,38511400,2022-01-24,7,2603.9,15,63,Greece,Groceries,Monday,False
+6168,Spearsland,60070623,2022-11-17,6,3630.6,0,0,Cape Verde,Groceries,Thursday,False
+19505,Spearsland,89528563,2023-05-15,4,830.72,0,0,Jersey,Furniture,Monday,False
+27044,Spearsland,96282526,2023-12-30,8,2492.56,0,86,Reunion,Groceries,Saturday,False
+17210,Spearsland,62375351,2023-02-02,7,2608.9,0,91,Netherlands Antilles,Furniture,Thursday,False
+26461,Spearsland,96282526,2022-05-26,3,934.71,0,0,Lesotho,Groceries,Thursday,False
+3044,Spearsland,73978756,2022-05-01,9,1184.11,20,0,Mayotte,Clothing,Sunday,False
+27779,Spearsland,18794205,2022-01-02,2,1374.78,0,0,Kiribati,Clothing,Sunday,False
+28285,Spearsland,18794205,2023-05-23,7,4811.73,0,6,Qatar,Clothing,Tuesday,False
+26408,Spearsland,96282526,2022-04-03,8,2492.56,0,199,Lebanon,Groceries,Sunday,False
+5858,Spearsland,60070623,2022-01-11,5,3025.5,0,33,Belize,Groceries,Tuesday,False
+7028,Spearsland,36491025,2023-03-26,17,12086.83,0,67,Vanuatu,Electronics,Sunday,False
+14272,Spearsland,8914811,2023-01-19,5,1491.6,0,0,Martinique,Clothing,Thursday,False
+4497,Spearsland,9529489,2022-04-22,5,337.5,0,0,San Marino,Groceries,Friday,False
+11870,Spearsland,44234706,2022-06-24,3,933.6,0,144,Anguilla,Furniture,Friday,False
+11823,Spearsland,44234706,2022-05-08,7,1960.56,10,194,Turkey,Furniture,Sunday,False
+5092,Spearsland,9529489,2023-12-08,8,486.0,10,0,Bolivia,Groceries,Friday,False
+6278,Spearsland,60070623,2023-03-07,4,2420.4,0,0,Congo,Groceries,Tuesday,False
+28551,Spearsland,47345331,2022-02-12,17,7577.75,0,0,Bosnia and Herzegovina,Electronics,Saturday,False
+14537,Spearsland,8914811,2023-10-11,3,894.96,0,0,Antigua and Barbuda,Clothing,Wednesday,False
+7671,Spearsland,80767985,2022-12-28,5,151.9,0,173,Cuba,Electronics,Wednesday,False
+26859,Spearsland,96282526,2023-06-28,6,1869.42,0,0,Bulgaria,Groceries,Wednesday,False
+21418,Spearsland,56655933,2022-08-08,5,265.95,5,113,Poland,Furniture,Monday,False
+19851,Spearsland,93691949,2022-04-25,10,5190.9,0,82,Iraq,Clothing,Monday,False
+18149,Spearsland,6741754,2023-08-29,2,923.02,0,74,North Macedonia,Groceries,Tuesday,False
+6064,Spearsland,60070623,2022-08-05,8,4840.8,0,15,Georgia,Groceries,Friday,False
+17532,Spearsland,62375351,2023-12-21,4,1416.26,5,113,Uruguay,Furniture,Thursday,False
+17326,Spearsland,62375351,2023-05-29,4,1490.8,0,120,Netherlands,Furniture,Monday,False
+3788,Spearsland,34892534,2022-05-14,5,822.15,0,0,Hungary,Furniture,Saturday,False
+24359,Spearsland,24102292,2022-08-25,9,8544.6,0,90,Antigua and Barbuda,Clothing,Thursday,False
+21603,Spearsland,56655933,2023-02-09,4,223.96,0,187,Iraq,Furniture,Thursday,False
+26984,Spearsland,96282526,2023-10-31,4,1246.28,0,0,Jamaica,Groceries,Tuesday,False
+19747,Spearsland,93691949,2022-01-11,3,1557.27,0,0,Ecuador,Clothing,Tuesday,False
+12697,Spearsland,9189980,2022-09-28,2,1059.02,0,0,Madagascar,Furniture,Wednesday,False
+1677,Spearsland,14258596,2022-08-04,9,6612.03,0,0,French Southern Territories,Electronics,Thursday,False
+11607,Spearsland,65593523,2023-10-05,4,766.28,0,0,Mayotte,Groceries,Thursday,False
+26678,Spearsland,96282526,2022-12-29,5,1557.85,0,0,Serbia,Groceries,Thursday,False
+24887,Spearsland,8628619,2022-02-03,4,3091.14,20,141,United Kingdom,Electronics,Thursday,False
+22627,Spearsland,56183269,2023-11-29,1,611.47,0,0,United States Virgin Islands,Clothing,Wednesday,False
+14611,Spearsland,8914811,2023-12-24,6,1789.92,0,0,Taiwan,Clothing,Sunday,False
+4297,Spearsland,34892534,2023-10-05,4,657.72,0,0,Solomon Islands,Furniture,Thursday,False
+4797,Spearsland,9529489,2023-02-16,6,405.0,0,0,American Samoa,Groceries,Thursday,False
+3237,Spearsland,73978756,2022-11-10,6,986.76,0,0,Latvia,Clothing,Thursday,False
+7112,Spearsland,36491025,2023-06-18,9,6398.91,0,0,Eritrea,Electronics,Sunday,False
+164,Spearsland,52372247,2022-06-14,4,1294.69,15,0,Rwanda,Furniture,Tuesday,False
+12201,Spearsland,44234706,2023-05-21,14,4356.8,0,97,Central African Republic,Furniture,Sunday,False
+2720,Spearsland,34875230,2023-06-12,5,3013.35,0,0,Lebanon,Groceries,Monday,False
+2531,Spearsland,34875230,2022-12-05,6,3616.02,0,0,Comoros,Groceries,Monday,False
+13040,Spearsland,9189980,2023-09-06,3,1588.53,0,149,China,Furniture,Wednesday,False
+25695,Spearsland,71215150,2022-04-21,7,5672.17,0,36,Saint Barthelemy,Clothing,Thursday,False
+14193,Spearsland,8914811,2022-11-01,1,298.32,0,0,Brunei Darussalam,Clothing,Tuesday,False
+1840,Spearsland,14258596,2023-01-14,8,5877.36,0,78,United Kingdom,Electronics,Saturday,False
+3888,Spearsland,34892534,2022-08-22,10,1644.3,0,23,Mozambique,Furniture,Monday,False
+9194,Spearsland,65656938,2023-02-27,8,6672.96,0,126,Monaco,Electronics,Monday,False
+93,Spearsland,52372247,2022-04-04,7,2665.53,0,24,North Macedonia,Furniture,Monday,False
+24744,Spearsland,24102292,2023-09-14,6,5696.4,0,160,Mexico,Clothing,Thursday,False
+23213,Spearsland,47856080,2023-07-07,4,607.99,15,0,United Arab Emirates,Electronics,Friday,False
+7774,Spearsland,80767985,2023-04-10,4,121.52,0,45,Burundi,Electronics,Monday,False
+16987,Spearsland,62375351,2022-06-24,6,2012.58,10,0,Argentina,Furniture,Friday,False
+2709,Spearsland,34875230,2023-06-01,3,1808.01,0,41,Niger,Groceries,Thursday,False
+7118,Spearsland,36491025,2023-06-24,5,3554.95,0,0,Puerto Rico,Electronics,Saturday,False
+1778,Spearsland,14258596,2022-11-13,4,2938.68,0,0,Nicaragua,Electronics,Sunday,False
+8287,Spearsland,30776388,2022-09-04,3,2910.63,0,0,North Macedonia,Electronics,Sunday,False
+19043,Spearsland,89528563,2022-02-07,5,1038.4,0,170,Albania,Furniture,Monday,False
+23027,Spearsland,47856080,2023-01-02,9,1287.5,20,0,Djibouti,Electronics,Monday,False
+5966,Spearsland,60070623,2022-04-29,7,4235.7,0,114,United States Minor Outlying Islands,Groceries,Friday,False
+14737,Spearsland,29925957,2022-04-28,6,3324.94,10,92,Jersey,Clothing,Thursday,False
+8889,Spearsland,65656938,2022-04-28,2,1668.24,0,0,Finland,Electronics,Thursday,False
+25042,Spearsland,8628619,2022-07-08,7,6761.86,0,32,Nauru,Electronics,Friday,False
+27091,Spearsland,22571670,2022-02-14,3,256.08,20,0,Tokelau,Electronics,Monday,False
+10036,Spearsland,8978790,2023-06-18,8,1497.5,15,116,Senegal,Furniture,Sunday,False
+3719,Spearsland,34892534,2022-03-06,5,822.15,0,0,Albania,Furniture,Sunday,False
+2991,Spearsland,73978756,2022-03-09,4,657.84,0,115,Bosnia and Herzegovina,Clothing,Wednesday,False
+29522,Spearsland,22928719,2022-10-10,6,784.92,0,0,Chile,Clothing,Monday,False
+22494,Spearsland,56183269,2023-07-19,6,3301.94,10,15,Singapore,Clothing,Wednesday,False
+17973,Spearsland,6741754,2023-03-06,4,1846.04,0,10,Liechtenstein,Groceries,Monday,False
+2024,Spearsland,14258596,2023-07-17,3,1763.21,20,0,Ukraine,Electronics,Monday,False
+4889,Spearsland,9529489,2023-05-19,4,256.5,5,88,Dominican Republic,Groceries,Friday,False
+6940,Spearsland,36491025,2022-12-28,9,5119.13,20,135,Belarus,Electronics,Wednesday,False
+7350,Spearsland,80767985,2022-02-10,9,273.42,0,145,Sao Tome and Principe,Electronics,Thursday,False
+8734,Spearsland,30776388,2023-11-25,6,5821.26,0,179,Greenland,Electronics,Saturday,False
+15452,Spearsland,22286000,2022-04-12,8,1184.8,0,167,South Africa,Furniture,Tuesday,False
+15276,Spearsland,29925957,2023-10-19,4,2216.63,10,0,Burundi,Clothing,Thursday,False
+20282,Spearsland,93691949,2023-06-30,10,5190.9,0,188,Madagascar,Clothing,Friday,False
+26387,Spearsland,96282526,2022-03-13,3,934.71,0,0,Philippines,Groceries,Sunday,False
+27410,Spearsland,22571670,2022-12-30,14,1493.8,0,0,Central African Republic,Electronics,Friday,False
+12300,Spearsland,44234706,2023-08-28,9,2240.64,20,186,Liechtenstein,Furniture,Monday,False
+6001,Spearsland,60070623,2022-06-03,4,2420.4,0,0,Korea,Groceries,Friday,False
+16964,Spearsland,62375351,2022-06-01,7,2608.9,0,24,Rwanda,Furniture,Wednesday,False
+6910,Spearsland,36491025,2022-11-28,7,3981.54,20,0,Nicaragua,Electronics,Monday,False
+10602,Spearsland,64503400,2023-01-04,7,1330.07,0,47,Malawi,Furniture,Wednesday,False
+12340,Spearsland,44234706,2023-10-07,5,1556.0,0,171,Georgia,Furniture,Saturday,False
+14324,Spearsland,8914811,2023-03-12,2,596.64,0,197,Finland,Clothing,Sunday,False
+14069,Spearsland,8914811,2022-06-30,3,894.96,0,137,Ecuador,Clothing,Thursday,False
+4368,Spearsland,34892534,2023-12-15,2,328.86,0,0,Bahamas,Furniture,Friday,False
+19453,Spearsland,89528563,2023-03-24,5,1038.4,0,0,Czech Republic,Furniture,Friday,False
+29278,Spearsland,22928719,2022-02-08,9,1177.38,0,173,Cook Islands,Clothing,Tuesday,False
+15477,Spearsland,22286000,2022-05-07,5,740.5,0,29,Barbados,Furniture,Saturday,False
+19821,Spearsland,93691949,2022-03-26,5,2595.45,0,21,Norfolk Island,Clothing,Saturday,False
+10768,Spearsland,64503400,2023-06-19,4,760.04,0,76,Slovenia,Furniture,Monday,False
+13674,Spearsland,38511400,2023-06-01,3,1247.25,5,0,Korea,Groceries,Thursday,False
+6907,Spearsland,36491025,2022-11-25,9,6398.91,0,42,Malaysia,Electronics,Friday,False
+15632,Spearsland,22286000,2022-10-09,6,888.6,0,0,United States of America,Furniture,Sunday,False
+5127,Spearsland,16840607,2022-01-11,9,7807.59,0,146,Bulgaria,Furniture,Tuesday,False
+9006,Spearsland,65656938,2022-08-23,6,5004.72,0,94,Yemen,Electronics,Tuesday,False
+16027,Spearsland,22286000,2023-11-08,5,703.47,5,0,China,Furniture,Wednesday,False
+6415,Spearsland,60070623,2023-07-22,12,7261.2,0,0,San Marino,Groceries,Saturday,False
+14452,Spearsland,8914811,2023-07-18,7,1775.0,15,26,Mauritania,Clothing,Tuesday,False
+23897,Spearsland,81218219,2023-05-21,4,297.6,0,89,North Macedonia,Groceries,Sunday,False
+22373,Spearsland,56183269,2023-03-20,13,7949.11,0,0,Finland,Clothing,Monday,False
+26732,Spearsland,96282526,2023-02-21,5,1557.85,0,172,Trinidad and Tobago,Groceries,Tuesday,False
+23903,Spearsland,81218219,2023-05-27,2,148.8,0,0,Suriname,Groceries,Saturday,False
+22933,Spearsland,47856080,2022-09-30,7,1126.57,10,0,Ecuador,Electronics,Friday,False
+7181,Spearsland,36491025,2023-08-26,9,6398.91,0,106,Turks and Caicos Islands,Electronics,Saturday,False
+5039,Spearsland,9529489,2023-10-16,9,607.5,0,0,Saint Helena,Groceries,Monday,False
+23262,Spearsland,47856080,2023-08-25,7,1251.74,0,5,Bolivia,Electronics,Friday,False
+17549,Spearsland,6741754,2022-01-06,5,2307.55,0,25,Guinea,Groceries,Thursday,False
+16735,Spearsland,90008474,2023-10-16,3,897.66,0,81,Panama,Electronics,Monday,False
+25424,Spearsland,8628619,2023-07-25,6,5795.88,0,151,Poland,Electronics,Tuesday,False
+21745,Spearsland,56655933,2023-07-01,7,391.93,0,18,Palau,Furniture,Saturday,False
+2410,Spearsland,34875230,2022-08-06,7,4218.69,0,0,United Arab Emirates,Groceries,Saturday,False
+25102,Spearsland,8628619,2022-09-06,6,5795.88,0,50,Gabon,Electronics,Tuesday,False
+26215,Spearsland,71215150,2023-09-23,1,810.31,0,59,Malaysia,Clothing,Saturday,False
+29432,Spearsland,22928719,2022-07-12,5,654.1,0,125,Reunion,Clothing,Tuesday,False
+24641,Spearsland,24102292,2023-06-03,21,15949.92,20,0,Uganda,Clothing,Saturday,False
+23621,Spearsland,81218219,2022-08-18,2,119.04,20,34,Rwanda,Groceries,Thursday,False
+6463,Spearsland,60070623,2023-09-08,4,2420.4,0,0,Guyana,Groceries,Friday,False
+5046,Spearsland,9529489,2023-10-23,4,270.0,0,0,Honduras,Groceries,Monday,False
+27611,Spearsland,22571670,2023-07-19,7,746.9,0,0,North Macedonia,Electronics,Wednesday,False
+20072,Spearsland,93691949,2022-12-02,7,3633.63,0,21,Qatar,Clothing,Friday,False
+4268,Spearsland,34892534,2023-09-06,5,822.15,0,0,United States Virgin Islands,Furniture,Wednesday,False
+902,Spearsland,3636541,2022-06-21,4,3804.84,0,0,Mauritania,Furniture,Tuesday,False
+8635,Spearsland,30776388,2023-08-18,6,5821.26,0,0,Chile,Electronics,Friday,False
+3495,Spearsland,73978756,2023-07-26,1,164.46,0,0,Luxembourg,Clothing,Wednesday,False
+29680,Spearsland,22928719,2023-03-17,2,261.64,0,0,United Arab Emirates,Clothing,Friday,False
+9279,Spearsland,65656938,2023-05-23,7,4963.01,15,0,Angola,Electronics,Tuesday,False
+15331,Spearsland,29925957,2023-12-13,4,2462.92,0,80,Bhutan,Clothing,Wednesday,False
+6264,Spearsland,60070623,2023-02-21,5,3025.5,0,56,Saint Barthelemy,Groceries,Tuesday,False
+20010,Spearsland,93691949,2022-10-01,6,3114.54,0,95,Czech Republic,Clothing,Saturday,False
+28414,Spearsland,18794205,2023-09-29,3,1649.74,20,0,Niue,Clothing,Friday,False
+11127,Spearsland,65593523,2022-06-12,8,1532.56,0,0,Gibraltar,Groceries,Sunday,False
+25849,Spearsland,71215150,2022-09-22,3,2430.93,0,0,Canada,Clothing,Thursday,False
+21834,Spearsland,56655933,2023-09-28,7,333.14,15,145,Saudi Arabia,Furniture,Thursday,False
+4139,Spearsland,34892534,2023-04-30,4,657.72,0,0,Eritrea,Furniture,Sunday,False
+25268,Spearsland,8628619,2023-02-19,7,6761.86,0,0,Papua New Guinea,Electronics,Sunday,False
+21071,Spearsland,40024486,2023-08-27,18,10736.82,0,0,Panama,Electronics,Sunday,False
+11438,Spearsland,65593523,2023-04-19,5,909.96,5,98,Barbados,Groceries,Wednesday,False
+7598,Spearsland,80767985,2022-10-16,12,364.56,0,44,Togo,Electronics,Sunday,False
+5849,Spearsland,60070623,2022-01-02,1,514.34,15,134,Tajikistan,Groceries,Sunday,False
+4882,Spearsland,9529489,2023-05-12,5,337.5,0,16,Lithuania,Groceries,Friday,False
+784,Spearsland,3636541,2022-02-23,5,4518.25,5,0,United States Virgin Islands,Furniture,Wednesday,False
+12109,Spearsland,44234706,2023-02-18,5,1556.0,0,0,United Arab Emirates,Furniture,Saturday,False
+23285,Spearsland,47856080,2023-09-17,9,1609.38,0,134,Colombia,Electronics,Sunday,False
+27034,Spearsland,96282526,2023-12-20,10,3115.7,0,125,Greece,Groceries,Wednesday,False
+11124,Spearsland,65593523,2022-06-09,4,766.28,0,28,Belgium,Groceries,Thursday,False
+2254,Spearsland,34875230,2022-03-03,2,1205.34,0,0,Puerto Rico,Groceries,Thursday,False
+27827,Spearsland,18794205,2022-02-19,13,8489.27,5,0,Portugal,Clothing,Saturday,False
+18464,Spearsland,86469371,2022-07-09,4,2834.35,10,0,Falkland Islands (Malvinas),Furniture,Saturday,False
+18433,Spearsland,86469371,2022-06-08,6,3779.14,20,46,Papua New Guinea,Furniture,Wednesday,False
+11214,Spearsland,65593523,2022-09-07,3,574.71,0,0,Italy,Groceries,Wednesday,False
+1462,Spearsland,14258596,2022-01-01,8,5877.36,0,110,Chad,Electronics,Saturday,False
+2722,Spearsland,34875230,2023-06-14,3,1808.01,0,0,Timor-Leste,Groceries,Wednesday,False
+19139,Spearsland,89528563,2022-05-14,5,1038.4,0,0,Venezuela,Furniture,Saturday,False
+1891,Spearsland,14258596,2023-03-06,6,3526.42,20,0,Saint Martin,Electronics,Monday,False
+9000,Spearsland,65656938,2022-08-17,7,5838.84,0,111,Sudan,Electronics,Wednesday,False
+13321,Spearsland,38511400,2022-06-13,5,2188.15,0,0,Myanmar,Groceries,Monday,False
+24141,Spearsland,24102292,2022-01-19,7,6645.8,0,0,Anguilla,Clothing,Wednesday,False
+19431,Spearsland,89528563,2023-03-02,3,623.04,0,0,Cambodia,Furniture,Thursday,False
+21651,Spearsland,56655933,2023-03-29,6,335.94,0,0,Taiwan,Furniture,Wednesday,False
+10564,Spearsland,64503400,2022-11-27,15,2850.15,0,30,Iraq,Furniture,Sunday,False
+8081,Spearsland,30776388,2022-02-10,2,1940.42,0,0,India,Electronics,Thursday,False
+20159,Spearsland,93691949,2023-02-27,0,0.0,0,0,Cuba,Clothing,Monday,False
+21134,Spearsland,40024486,2023-10-29,8,4771.92,0,32,Netherlands,Electronics,Sunday,False
+18792,Spearsland,86469371,2023-06-02,6,4723.92,0,45,Isle of Man,Furniture,Friday,False
+14303,Spearsland,8914811,2023-02-19,11,3281.52,0,43,Estonia,Clothing,Sunday,False
+125,Spearsland,52372247,2022-05-06,7,2132.42,20,145,Tajikistan,Furniture,Friday,False
+20234,Spearsland,93691949,2023-05-13,3,1557.27,0,73,Brunei Darussalam,Clothing,Saturday,False
+13196,Spearsland,38511400,2022-02-08,7,2450.73,20,139,Portugal,Groceries,Tuesday,False
+14373,Spearsland,8914811,2023-04-30,5,1491.6,0,12,Tonga,Clothing,Sunday,False
+11418,Spearsland,65593523,2023-03-30,1,162.83,15,125,Mauritania,Groceries,Thursday,False
+310,Spearsland,52372247,2022-11-07,4,1523.16,0,64,Saint Vincent and the Grenadines,Furniture,Monday,False
+14540,Spearsland,8914811,2023-10-14,6,1789.92,0,43,Guernsey,Clothing,Saturday,False
+15437,Spearsland,22286000,2022-03-28,5,740.5,0,70,Saint Lucia,Furniture,Monday,False
+14026,Spearsland,8914811,2022-05-18,9,2684.88,0,97,Barbados,Clothing,Wednesday,False
+28431,Spearsland,18794205,2023-10-16,3,2062.17,0,0,Monaco,Clothing,Monday,False
+23318,Spearsland,47856080,2023-10-20,7,1126.57,10,15,Bahrain,Electronics,Friday,False
+3300,Spearsland,73978756,2023-01-12,6,986.76,0,24,China,Clothing,Thursday,False
+14039,Spearsland,8914811,2022-05-31,1,238.66,20,12,Czech Republic,Clothing,Tuesday,False
+622,Spearsland,52372247,2023-09-15,3,1142.37,0,0,North Macedonia,Furniture,Friday,False
+27404,Spearsland,22571670,2022-12-24,10,1067.0,0,122,Malta,Electronics,Saturday,False
+15387,Spearsland,22286000,2022-02-06,5,740.5,0,91,United States Minor Outlying Islands,Furniture,Sunday,False
+21306,Spearsland,56655933,2022-04-18,2,111.98,0,0,Saint Kitts and Nevis,Furniture,Monday,False
+17759,Spearsland,6741754,2022-08-04,8,3692.08,0,1,Panama,Groceries,Thursday,False
+27507,Spearsland,22571670,2023-04-06,1,106.7,0,0,French Polynesia,Electronics,Thursday,False
+8418,Spearsland,30776388,2023-01-13,3,2910.63,0,103,Sierra Leone,Electronics,Friday,False
+25152,Spearsland,8628619,2022-10-26,10,9659.8,0,0,Sao Tome and Principe,Electronics,Wednesday,False
+15103,Spearsland,29925957,2023-04-29,12,7388.76,0,0,Vietnam,Clothing,Saturday,False
+11759,Spearsland,44234706,2022-03-05,9,2660.76,5,146,Hong Kong,Furniture,Saturday,False
+2237,Spearsland,34875230,2022-02-14,5,3013.35,0,43,Vanuatu,Groceries,Monday,False
+18243,Spearsland,6741754,2023-12-01,5,2192.17,5,113,Cook Islands,Groceries,Friday,False
+1186,Spearsland,3636541,2023-04-01,2,1902.42,0,133,Cameroon,Furniture,Saturday,False
+28520,Spearsland,47345331,2022-01-12,8,3031.1,15,160,Heard Island and McDonald Islands,Electronics,Wednesday,False
+22990,Spearsland,47856080,2022-11-26,4,715.28,0,46,Mongolia,Electronics,Saturday,False
+22,Spearsland,52372247,2022-01-23,5,1903.95,0,180,Switzerland,Furniture,Sunday,False
+17448,Spearsland,62375351,2023-09-28,5,1863.5,0,135,Bouvet Island (Bouvetoya),Furniture,Thursday,False
+22514,Spearsland,56183269,2023-08-08,3,1834.41,0,91,Jamaica,Clothing,Tuesday,False
+6724,Spearsland,36491025,2022-05-26,2,1421.98,0,116,Canada,Electronics,Thursday,False
+19300,Spearsland,89528563,2022-10-22,10,2076.8,0,0,Algeria,Furniture,Saturday,False
+26270,Spearsland,71215150,2023-11-17,3,2430.93,0,160,Moldova,Clothing,Friday,False
+29533,Spearsland,22928719,2022-10-21,3,392.46,0,129,Saint Pierre and Miquelon,Clothing,Friday,False
+23557,Spearsland,81218219,2022-06-15,5,372.0,0,0,Syrian Arab Republic,Groceries,Wednesday,False
+21850,Spearsland,56655933,2023-10-14,11,615.89,0,0,Montenegro,Furniture,Saturday,False
+12154,Spearsland,44234706,2023-04-04,7,2069.48,5,0,Nepal,Furniture,Tuesday,False
+21614,Spearsland,56655933,2023-02-20,5,279.95,0,77,Nauru,Furniture,Monday,False
+19040,Spearsland,89528563,2022-02-04,5,1038.4,0,0,Isle of Man,Furniture,Friday,False
+29508,Spearsland,22928719,2022-09-26,2,222.39,15,113,Vietnam,Clothing,Monday,False
+8681,Spearsland,30776388,2023-10-03,9,8731.89,0,79,Anguilla,Electronics,Tuesday,False
+15439,Spearsland,22286000,2022-03-30,4,592.4,0,0,United Arab Emirates,Furniture,Wednesday,False
+21396,Spearsland,56655933,2022-07-17,10,559.9,0,0,Kuwait,Furniture,Sunday,False
+5823,Spearsland,16840607,2023-12-08,9,6636.45,15,11,Mayotte,Furniture,Friday,False
+1165,Spearsland,3636541,2023-03-11,3,2425.59,15,22,Montenegro,Furniture,Saturday,False
+18481,Spearsland,86469371,2022-07-26,9,7085.88,0,0,Guyana,Furniture,Tuesday,False
+2766,Spearsland,34875230,2023-07-28,5,3013.35,0,69,Venezuela,Groceries,Friday,False
+19029,Spearsland,89528563,2022-01-24,3,498.43,20,78,Swaziland,Furniture,Monday,False
+23666,Spearsland,81218219,2022-10-02,8,595.2,0,0,United States of America,Groceries,Sunday,False
+10396,Spearsland,64503400,2022-06-12,7,1330.07,0,0,Maldives,Furniture,Sunday,False
+2845,Spearsland,34875230,2023-10-15,4,2290.15,5,0,Northern Mariana Islands,Groceries,Sunday,False
+831,Spearsland,3636541,2022-04-11,9,8560.89,0,49,Gambia,Furniture,Monday,False
+20354,Spearsland,93691949,2023-09-10,3,1401.54,10,0,Monaco,Clothing,Sunday,False
+21643,Spearsland,56655933,2023-03-21,5,279.95,0,188,Central African Republic,Furniture,Tuesday,False
+13488,Spearsland,38511400,2022-11-27,12,5251.56,0,116,Malawi,Groceries,Sunday,False
+10955,Spearsland,64503400,2023-12-23,8,1520.08,0,0,Burkina Faso,Furniture,Saturday,False
+8702,Spearsland,30776388,2023-10-24,5,4365.95,10,0,Australia,Electronics,Tuesday,False
+22211,Spearsland,56183269,2022-10-09,2,978.35,20,93,United Kingdom,Clothing,Sunday,False
+17022,Spearsland,62375351,2022-07-29,5,1677.15,10,49,Togo,Furniture,Friday,False
+1126,Spearsland,3636541,2023-01-31,2,1902.42,0,171,Sweden,Furniture,Tuesday,False
+1648,Spearsland,14258596,2022-07-06,6,4408.02,0,87,Macao,Electronics,Wednesday,False
+24124,Spearsland,24102292,2022-01-02,3,2848.2,0,0,Cocos (Keeling) Islands,Clothing,Sunday,False
+26454,Spearsland,96282526,2022-05-19,6,1869.42,0,0,Saint Vincent and the Grenadines,Groceries,Thursday,False
+20337,Spearsland,93691949,2023-08-24,7,3633.63,0,0,Iran,Clothing,Thursday,False
+16258,Spearsland,90008474,2022-06-26,6,1795.32,0,186,Zambia,Electronics,Sunday,False
+12544,Spearsland,9189980,2022-04-28,4,2118.04,0,179,Croatia,Furniture,Thursday,False
+16619,Spearsland,90008474,2023-06-22,4,1196.88,0,0,Faroe Islands,Electronics,Thursday,False
+27973,Spearsland,18794205,2022-07-15,10,6873.9,0,0,Rwanda,Clothing,Friday,False
+29220,Spearsland,47345331,2023-12-13,5,2228.75,0,113,Tanzania,Electronics,Wednesday,False
+24457,Spearsland,24102292,2022-12-01,8,7595.2,0,85,San Marino,Clothing,Thursday,False
+11747,Spearsland,44234706,2022-02-21,5,1556.0,0,23,Serbia,Furniture,Monday,False
+2443,Spearsland,34875230,2022-09-08,7,4218.69,0,86,Guernsey,Groceries,Thursday,False
+3125,Spearsland,73978756,2022-07-21,2,312.47,5,24,Zimbabwe,Clothing,Thursday,False
+8574,Spearsland,30776388,2023-06-18,10,9702.1,0,90,Denmark,Electronics,Sunday,False
+24459,Spearsland,24102292,2022-12-03,5,4272.3,10,177,Palestinian Territory,Clothing,Saturday,False
+23679,Spearsland,81218219,2022-10-15,4,297.6,0,107,Poland,Groceries,Saturday,False
+29770,Spearsland,22928719,2023-06-15,13,1700.66,0,47,Botswana,Clothing,Thursday,False
+17,Spearsland,52372247,2022-01-18,6,2284.74,0,0,Italy,Furniture,Tuesday,False
+26642,Spearsland,96282526,2022-11-23,2,623.14,0,29,Mauritius,Groceries,Wednesday,False
+5095,Spearsland,9529489,2023-12-11,4,270.0,0,0,Germany,Groceries,Monday,False
+25282,Spearsland,8628619,2023-03-05,1,965.98,0,0,Turks and Caicos Islands,Electronics,Sunday,False
+19795,Spearsland,93691949,2022-02-28,6,3114.54,0,0,San Marino,Clothing,Monday,False
+18913,Spearsland,86469371,2023-10-01,3,2361.96,0,0,Aruba,Furniture,Sunday,False
+6759,Spearsland,36491025,2022-06-30,5,3554.95,0,0,Martinique,Electronics,Thursday,False
+23541,Spearsland,81218219,2022-05-30,0,0.0,0,112,Cameroon,Groceries,Monday,False
+2826,Spearsland,34875230,2023-09-26,4,2410.68,0,122,Zambia,Groceries,Tuesday,False
+20735,Spearsland,40024486,2022-09-25,3,1789.47,0,0,Austria,Electronics,Sunday,False
+14255,Spearsland,8914811,2023-01-02,5,1342.44,10,0,Kenya,Clothing,Monday,False
+8005,Spearsland,80767985,2023-11-27,5,151.9,0,81,French Southern Territories,Electronics,Monday,False
+16214,Spearsland,90008474,2022-05-13,7,2094.54,0,0,Luxembourg,Electronics,Friday,False
+13252,Spearsland,38511400,2022-04-05,5,2188.15,0,0,Korea,Groceries,Tuesday,False
+15701,Spearsland,22286000,2022-12-17,8,1184.8,0,94,Faroe Islands,Furniture,Saturday,False
+21397,Spearsland,56655933,2022-07-18,11,615.89,0,0,Malaysia,Furniture,Monday,False
+25363,Spearsland,8628619,2023-05-25,1,965.98,0,0,American Samoa,Electronics,Thursday,False
+21936,Spearsland,56183269,2022-01-07,4,2201.29,10,111,Singapore,Clothing,Friday,False
+15053,Spearsland,29925957,2023-03-10,6,3694.38,0,100,Tokelau,Clothing,Friday,False
+9005,Spearsland,65656938,2022-08-22,12,10009.44,0,74,Venezuela,Electronics,Monday,False
+27816,Spearsland,18794205,2022-02-08,2,1374.78,0,0,Cayman Islands,Clothing,Tuesday,False
+4248,Spearsland,34892534,2023-08-17,7,1151.01,0,0,Afghanistan,Furniture,Thursday,False
+6337,Spearsland,60070623,2023-05-05,5,2722.95,10,0,Bangladesh,Groceries,Friday,False
+29489,Spearsland,22928719,2022-09-07,2,261.64,0,0,Marshall Islands,Clothing,Wednesday,False
+7530,Spearsland,80767985,2022-08-09,18,546.84,0,99,Saudi Arabia,Electronics,Tuesday,False
+20307,Spearsland,93691949,2023-07-25,3,1323.68,15,98,Russian Federation,Clothing,Tuesday,False
+9746,Spearsland,8978790,2022-09-01,3,660.66,0,0,Falkland Islands (Malvinas),Furniture,Thursday,False
+25925,Spearsland,71215150,2022-12-07,2,1620.62,0,0,Dominica,Clothing,Wednesday,False
+29467,Spearsland,22928719,2022-08-16,2,209.31,20,61,Mauritius,Clothing,Tuesday,False
+20505,Spearsland,40024486,2022-02-07,7,4175.43,0,191,Grenada,Electronics,Monday,False
+22698,Spearsland,47856080,2022-02-07,6,1072.92,0,12,Macao,Electronics,Monday,False
+6889,Spearsland,36491025,2022-11-07,7,4976.93,0,0,Portugal,Electronics,Monday,False
+17164,Spearsland,62375351,2022-12-18,15,4751.92,15,50,Tanzania,Furniture,Sunday,False
+3477,Spearsland,73978756,2023-07-08,4,657.84,0,0,Palau,Clothing,Saturday,False
+21930,Spearsland,56183269,2022-01-01,5,2751.62,10,0,Iran,Clothing,Saturday,False
+24045,Spearsland,81218219,2023-10-16,6,357.12,20,27,Slovakia (Slovak Republic),Groceries,Monday,False
+9372,Spearsland,65656938,2023-08-24,9,7507.08,0,0,Togo,Electronics,Thursday,False
+27658,Spearsland,22571670,2023-09-04,13,1387.1,0,42,Azerbaijan,Electronics,Monday,False
+12266,Spearsland,44234706,2023-07-25,9,2800.8,0,0,France,Furniture,Tuesday,False
+29213,Spearsland,47345331,2023-12-06,9,3409.99,15,0,Tajikistan,Electronics,Wednesday,False
+24052,Spearsland,81218219,2023-10-23,6,401.76,10,110,Wallis and Futuna,Groceries,Monday,False
+2380,Spearsland,34875230,2022-07-07,2,1145.07,5,0,Seychelles,Groceries,Thursday,False
+22496,Spearsland,56183269,2023-07-21,7,4280.29,0,65,Nauru,Clothing,Friday,False
+21473,Spearsland,56655933,2022-10-02,8,403.13,10,0,Congo,Furniture,Sunday,False
+23006,Spearsland,47856080,2022-12-12,7,1251.74,0,0,Vietnam,Electronics,Monday,False
+12644,Spearsland,9189980,2022-08-06,7,3706.57,0,114,Iran,Furniture,Saturday,False
+2183,Spearsland,14258596,2023-12-23,6,3526.42,20,132,Libyan Arab Jamahiriya,Electronics,Saturday,False
+17494,Spearsland,62375351,2023-11-13,11,4099.7,0,0,Taiwan,Furniture,Monday,False
+8105,Spearsland,30776388,2022-03-06,8,7761.68,0,0,Mayotte,Electronics,Sunday,False
+25151,Spearsland,8628619,2022-10-25,5,4829.9,0,0,Jamaica,Electronics,Tuesday,False
+15703,Spearsland,22286000,2022-12-19,8,1125.56,5,15,Barbados,Furniture,Monday,False
+19118,Spearsland,89528563,2022-04-23,8,1661.44,0,145,Latvia,Furniture,Saturday,False
+7974,Spearsland,80767985,2023-10-27,5,151.9,0,0,Lebanon,Electronics,Friday,False
+8674,Spearsland,30776388,2023-09-26,7,6791.47,0,143,Bermuda,Electronics,Tuesday,False
+4318,Spearsland,34892534,2023-10-26,12,1973.16,0,112,Belarus,Furniture,Thursday,False
+12900,Spearsland,9189980,2023-04-19,9,4765.59,0,149,British Virgin Islands,Furniture,Wednesday,False
+6589,Spearsland,36491025,2022-01-11,3,1919.67,10,0,Bangladesh,Electronics,Tuesday,False
+29494,Spearsland,22928719,2022-09-12,6,784.92,0,0,Korea,Clothing,Monday,False
+5230,Spearsland,16840607,2022-04-24,2,1735.02,0,164,Togo,Furniture,Sunday,False
+26489,Spearsland,96282526,2022-06-23,4,997.02,20,0,Croatia,Groceries,Thursday,False
